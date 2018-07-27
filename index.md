@@ -1,3 +1,4 @@
+
 # THAT STRANGE SENSATION 
 
 Lately, every time A ascended, she’d feel on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her, disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, make her shield her eyes from it, even as she felt herself hungrily drawing toward it.
@@ -6,13 +7,15 @@ And now she finds herself on the surface, back in her right mind, back on solid 
 
 Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately, even before her colleagues could swim down to rescue her. 
 
-What an unscientific thought. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered—the water directed your focus, plied your attention toward what it wanted to show you. 	
+What an unscientific thought. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered—the water directed your focus, plied your attention toward what it wanted to show you.
 
+“My god, I know how you feel,” her colleague, E, tells her as they unsuit back on the boat. E grunts as her tank clinks into its holder. “Sometimes I just don’t want to leave that world.” 
 
-	<p>“My god, I know how you feel,” her colleague, E, tells her as they unsuit back on the boat. E grunts as her tank clinks into its holder. “Sometimes I just don’t want to leave that world.” 
-	<p>“Maybe that’s all it is,” A replies, but still she can’t explain why the sensation is getting stronger, or—could she say—worse? </p>
-<p>— </p>
-<p>Two hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well. </p>
+“Maybe that’s all it is,” A replies, but still she can’t explain why the sensation is getting stronger, or—could she say—worse?
+
+—
+	
+<pTwo hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well. </p>
 	<p>E types away beside her, probably messaging with some prospective intern or resident, an eager undergraduate or beleaguered graduate student, desperately looking for a suitable site to host them, an exciting Southeast Asian experience that would allow them to test their new research skills.  A storm has rolled in. A’s nostrils are alerted to a metallic smell as large raindrops begin to fire away on the roof as if they mean to put a hole in it. A feels as if the space has become smaller, as if the world would be happy to do them in. </p>
 	<p>A leans her forehead on her hand, rubs her temples. “I’ve got a bit of a headache now,” she says. Her colleague turns toward her, frowns, but keeps on typing. </p>
 	<p>“Take a paracetemol,” E says and sighs. Then she groans. “This student wants to bring his girlfriend. But she’s not going to do any research. She just wants to hangout. She won’t take up another bed, he says. I don’t see why she has to pay.” Eye roll. </p> 
