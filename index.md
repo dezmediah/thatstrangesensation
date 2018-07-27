@@ -15,33 +15,52 @@ What an unscientific thought. Likely she was becoming dizzy as a result of a sli
 
 —
 	
-<pTwo hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well. </p>
-	<p>E types away beside her, probably messaging with some prospective intern or resident, an eager undergraduate or beleaguered graduate student, desperately looking for a suitable site to host them, an exciting Southeast Asian experience that would allow them to test their new research skills.  A storm has rolled in. A’s nostrils are alerted to a metallic smell as large raindrops begin to fire away on the roof as if they mean to put a hole in it. A feels as if the space has become smaller, as if the world would be happy to do them in. </p>
-	<p>A leans her forehead on her hand, rubs her temples. “I’ve got a bit of a headache now,” she says. Her colleague turns toward her, frowns, but keeps on typing. </p>
-	<p>“Take a paracetemol,” E says and sighs. Then she groans. “This student wants to bring his girlfriend. But she’s not going to do any research. She just wants to hangout. She won’t take up another bed, he says. I don’t see why she has to pay.” Eye roll. </p> 
-	 <p>A gets up and heads to the kitchen to get a drink of water. On her fourth step, a curtain comes over her vision and all she can see is black. “I’m going blind,” she says as she collapses to the floor. </p>
-	<p>When she wakes up, E is standing over her. Her face looks old, and the geometry of her face evokes an ancient math. A is sure, then, at that delirious moment that there have been people who looked just like E at least a hundred times in human history.</p> 
-	<p>And then she feels her heart beating, faster than it should be beating. Her breath is deep and rapid at the same time, as if she can’t get enough air. But she is breathing, her heart is beating, and she can see. </p>
-	<p>“I’m okay,” she says. </p>
-	<p>“My god, what is wrong with you?” E yells, her Russian accent really coming out now. “Do you want me to call an ambulance?”</p>
-	<p>“No, no,” she says. “I just stood up too fast I think. Something going a little off with my circulation lately, maybe my blood pressure.”</p>
-	<p>Maybe I’m fucking pregnant, she thinks. Fucking pregnant, that’s a funny phrase. </p>
-	<p>“Dude, go home,” E says. “Take the day off.” </p>
-	<p>“But new students are coming, I have to orient them.” </p>
-	<p>“Honey, take some time off.” </p>
-—
-A couple hours later A is in her house, in her bed, behind the mosquito net. Her headache has faded and she feels fine. The storm has passed away, leaving behind thin, shifting, planes of air. She’s reading a book, a somewhat dense and poetic biology book about water and how to interpret it. She’s enjoying the language, but can’t process much meaning from it. She puts the book down and looks at her nightstand. Two pregnancy tests rest there, staring up at her with two blank white eyes. No results. How could that be? 
-	Pregnancy was unlikely, as she and her various partners on the island always used condoms, but you never knew. So she could understand a positive result and she could understand a negative result but a non-result was perplexing to say the least. Two different tests from two different companies. It was strange. but there would be some biological explanation for it, certainly. 
-	Just a little low on iron from my last period. Something, something like that. 
-	It is barely five o clock. A breeze blows in and a mouse or a squirrel scampers across her roof. The cicadas are quieting down, down to a low, tired, scratching, only needing to cool themselves down a little in this breezy landscape. 
-	
-	“We will look at water as the subject. Mammals and insects are interesting, but they will only earn their place in this book to the 
-	extent that they can explain the behavior, the signs and symbols of water.”
+Two hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well. 
+E types away beside her, probably messaging with some prospective intern or resident, an eager undergraduate or beleaguered graduate student, desperately looking for a suitable site to host them, an exciting Southeast Asian experience that would allow them to test their new research skills.  A storm has rolled in. A’s nostrils are alerted to a metallic smell as large raindrops begin to fire away on the roof as if they mean to put a hole in it. A feels as if the space has become smaller, as if the world would be happy to do them in.
 
-	She puts the book down and falls asleep. She sleeps 12 hours. At 5 am a gecko lands on the wall of her bungalow just outside her head and calls out loud and clear, “unh unh, unh unh, unh unh,” and she jolts awake, thinking the gecko is in her bed, that someone put it in her bed to wake it up, but there’s no one in her house, not even a gecko. 
-	She can’t believe she slept 12 hours. 
+A leans her forehead on her hand, rubs her temples. “I’ve got a bit of a headache now,” she says. Her colleague turns toward her, frowns, but keeps on typing. 
+	
+“Take a paracetemol,” E says and sighs. Then she groans. “This student wants to bring his girlfriend. But she’s not going to do any research. She just wants to hangout. She won’t take up another bed, he says. I don’t see why she has to pay.” Eye roll. 
+
+A gets up and heads to the kitchen to get a drink of water. On her fourth step, a curtain comes over her vision and all she can see is black. “I’m going blind,” she says as she collapses to the floor.
+
+When she wakes up, E is standing over her. Her face looks old, and the geometry of her face evokes an ancient math. A is sure, then, at that delirious moment that there have been people who looked just like E at least a hundred times in human history. 
+
+And then she feels her heart beating, faster than it should be beating. Her breath is deep and rapid at the same time, as if she can’t get enough air. But she is breathing, her heart is beating, and she can see. 
+
+“I’m okay,” she says.
+
+“My god, what is wrong with you?” E yells, her Russian accent really coming out now. “Do you want me to call an ambulance?”
+
+“No, no,” she says. “I just stood up too fast I think. Something going a little off with my circulation lately, maybe my blood pressure.”
+
+Maybe I’m fucking pregnant, she thinks. Fucking pregnant, that’s a funny phrase. 
+
+“Dude, go home,” E says. “Take the day off.”
+
+“But new students are coming, I have to orient them.” 
+
+“Honey, take some time off.” 
+
+—
+
+A couple hours later A is in her house, in her bed, behind the mosquito net. Her headache has faded and she feels fine. The storm has passed away, leaving behind thin, shifting, planes of air. She’s reading a book, a somewhat dense and poetic biology book about water and how to interpret it. She’s enjoying the language, but can’t process much meaning from it. She puts the book down and looks at her nightstand. Two pregnancy tests rest there, staring up at her with two blank white eyes. No results. How could that be? 
+
+Pregnancy was unlikely, as she and her various partners on the island always used condoms, but you never knew. So she could understand a positive result and she could understand a negative result but a non-result was perplexing to say the least. Two different tests from two different companies. It was strange. but there would be some biological explanation for it, certainly. 
+
+Just a little low on iron from my last period. Something, something like that. 
+
+It is barely five o clock. A breeze blows in and a mouse or a squirrel scampers across her roof. The cicadas are quieting down, down to a low, tired, scratching, only needing to cool themselves down a little in this breezy landscape. 
+	
+>“We will look at water as the subject. Mammals and insects are interesting, but they will only earn their place in this book to the 
+extent that they can explain the behavior, the signs and symbols of water.”
+
+She puts the book down and falls asleep. She sleeps 12 hours. At 5 am a gecko lands on the wall of her bungalow just outside her head and calls out loud and clear, “unh unh, unh unh, unh unh,” and she jolts awake, thinking the gecko is in her bed, that someone put it in her bed to wake it up, but there’s no one in her house, not even a gecko. 
+
+She can’t believe she slept 12 hours.
 	Maybe I am fucking pregnant.
-	Suddenly she feels tough and lichenous, tucked away inside herself from whatever might be happening outside.
+
+Suddenly she feels tough and lichenous, tucked away inside herself from whatever might be happening outside.
 —
 On her motorbike drive to work, a rabid dog lunges toward her, causing her to swerve sharply. After driving off a safe distance, she stops and looks back at it. It lies in the middle of the road, sunning.
 	She gets to the lab before E and spends a quiet morning drinking coffee and looking over the data. The coral bleaching is getting worse and what to do, what to do about that. 50% bleached already and it’s only the beginning of the hot season. At some point in her meager little life, she’d decided that the best thing she could do was have this field station and report the data. Tell the authorities. Alert people in power. Bolster the science, strengthen the argument. Not shut up. Perhaps she should do more. 
