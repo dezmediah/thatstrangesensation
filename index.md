@@ -56,7 +56,6 @@ extent that they can explain the behavior, the signs and symbols of water.”
 She puts the book down and falls asleep. She sleeps 12 hours. At 5 am a gecko lands on the wall of her bungalow just outside her head and calls out loud and clear, “unh unh, unh unh, unh unh,” and she jolts awake, thinking the gecko is in her bed, that someone put it in her bed to wake it up, but there’s no one in her house, not even a gecko. 
 
 She can’t believe she slept 12 hours.
-
 *Maybe I am fucking pregnant.*
 
 Suddenly she feels tough and lichenous, tucked away inside herself from whatever might be happening outside.
@@ -91,4 +90,4 @@ She doesn’t think about the sensation. She’s thinking about the data she gat
 
 The pressure is a few degrees more intense this time, the movement of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the rays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above the ground in the middle of the stage. 
 
-And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation. A least a piece or two of trash thrown about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone..
+And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation. A least a piece or two of trash thrown about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.
