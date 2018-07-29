@@ -14,7 +14,7 @@ Ever since she was a beginner diver, she’d felt a whiff of this sensation, but
 
 —
 	
-kTwo hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, and one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well.
+Two hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, and one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well.
 
 E types away beside her, probably messaging with some prospective intern or resident, an eager undergraduate or beleaguered graduate student, desperately looking for a suitable site to host them, an exciting Southeast Asian experience that would allow them to flex their new research skills.  A storm has rolled in. A’s nostrils are alerted to a metallic smell as large raindrops begin to fire away on the roof as if they mean to put a hole in it. A feels as if the space has become smaller, as if the world would be happy to do them in.
 
