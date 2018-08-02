@@ -35,7 +35,9 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 
 <p>“No, no,” she says. “I just stood up too fast I think. Something going a little off with my circulation lately, maybe my blood pressure.”</p>
 
-<p>Maybe I’m fucking pregnant, she thinks.<em>Fucking pregnant, that’s a funny phrase.</em></p> 
+<p>Maybe I’m fucking pregnant, she thinks.</p>
+
+<p><em> Fucking pregnant, that’s a funny phrase.</em></p> 
 	
 <p>“Dude, go home,” E says. “Take the day off.”</p>
 
