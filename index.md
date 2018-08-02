@@ -13,7 +13,7 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 
 <p>“Maybe that’s all it is,” A replies, but still she can’t explain why the sensation is getting stronger, or—could she say—worse?</p>
 
-<p>—</p>
+<p>**</p>
 	
 <p>Two hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, and one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well.</p>
 
@@ -35,7 +35,7 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 
 <p>“No, no,” she says. “I just stood up too fast I think. Something going a little off with my circulation lately, maybe my blood pressure.”</p>
 
-<p>Maybe I’m fucking pregnant, she thinks. *Fucking pregnant, that’s a funny phrase.*</p> 
+<p>Maybe I’m fucking pregnant, she thinks.<em>Fucking pregnant, that’s a funny phrase.</em></p> 
 	
 <p>“Dude, go home,” E says. “Take the day off.”</p>
 
@@ -43,28 +43,27 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 
 <p>“Honey, take some time *off*.”</p> 
 
-<p>—</p>
+<p>**</p>
 
 <p>A couple hours later A is in her house, in her bed, behind the mosquito net. Her headache has faded and she feels fine. The storm has passed away, leaving behind thin, shifting, planes of air. She’s reading a dense book about water and how to interpret it. She’s enjoying the language, but can’t process much meaning from it. She puts the book down and looks at her nightstand. Two pregnancy tests rest there, staring up at her with two all-white eyes. No results. *How is this possible?</p>
 
 <p>Pregnancy was unlikely, as she and her various partners on the island always used condoms, but you never knew. So she could understand a positive result and she could understand a negative result but a non-result was perplexing to say the least. Two different tests from two different companies.</p> 
 	
-<p>*Just a little low on iron from my last period. Something, something like that.* </p>
+<p><em>Just a little low on iron from my last period. Something, something like that.</em></p>
 
 <p>It is barely five o clock. A breeze blows in and a rodent scampers across her roof. The cicadas are quieting down to a low, tired, scratching, only needing to cool themselves down a little in this breezy landscape.</p> 
 	
->“We will look at water as the subject. Mammals and insects are interesting, but they will only earn their place in this book to the 
-extent that they can explain the behavior, the signs and symbols of water.”
+<p><blockquote>“We will look at water as the subject. Mammals and insects are interesting, but they will only earn their place in this book to the extent that they can explain the behavior, the signs and symbols of water.” </blockquote><p>
 
 <p>She puts the book down and falls asleep. She sleeps 12 hours. At 5 am a gecko lands on the wall of her bungalow just outside her head and calls out, loud and clear, “unh unh, unh unh, unh unh,” and she jolts awake, thinking the gecko is in her bed, that someone put it in her bed to wake it up, but there’s no one in her house, not even a gecko.</p> 
 
 <p>She can’t believe she slept 12 hours.</p>
 
-<p>*Maybe I am fucking pregnant.*</p>
+<p><em>Maybe I am fucking pregnant.</em></p>
 
 <p>Suddenly she feels tough and lichenous, tucked away inside herself from whatever might be happening outside.</p>
 
-<p>—</p>
+<p>**</p>
 
 <p>On her motorbike drive to work, a rabid dog lunges toward her, causing her to swerve sharply. After driving off a safe distance, she stops and looks back at it. It lies in the middle of the road, sunning.</p>
 
@@ -80,7 +79,7 @@ extent that they can explain the behavior, the signs and symbols of water.”
 
 <p>“Oh I’m fine,” she says.</p> 
 
-<p>—</p>
+<p>**</p>
 
 <p>Two hours later they’re diving again. Today, perhaps out of E’s concern, it’s been determined that A will be divemaster for two of the more experienced students. That way, they can cover some of the more routine data gathering and A can be free to focus on her pet research project, which tests whether smaller solitary corals are less resistant to bleaching than larger solitary corals.</p>  
 
@@ -90,7 +89,7 @@ extent that they can explain the behavior, the signs and symbols of water.”
 	
 <p>She doesn’t think about the strange sensation. She’s thinking about the data she gathered and about what conclusions she might begin to draw. Slowly, slowly she swims up, not even needing to think moving her feet, just willing herself up. And then, at three meters from the surface, once again, it hits.</p>
 
-<p>—</p>
+<p>**</p>
 
 <p>The pressure is more intense this time, the movements of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the sunrays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above the ground in the middle of the stage.</p> 
 
