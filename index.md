@@ -1,5 +1,7 @@
+To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
+
 <details>
-	<summary><h2>PART ONE</h2></summary>
+	<summary><h3>PART ONE</h3></summary>
 	<p>
 Lately, every time A ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her, disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, make her shield her eyes even as she felt herself hungrily drawing toward it.</p>
 	
@@ -100,5 +102,3 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 <p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation a few pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> 
 
 <p> xxxxxxxxxxxxxxxxx </p>
-
-<p>To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)</p>
