@@ -5,15 +5,15 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 	
 <p>And now she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
 
-Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately, even before her colleagues could swim down to rescue her. 
+<p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately, even before her colleagues could swim down to rescue her. </p>
 
-*What an unscientific thought*. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered—the water directed your focus, plied your attention toward what it wanted to show you.
+<p>*What an unscientific thought*. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered—the water directed your focus, plied your attention toward what it wanted to show you.</p>
 
-“My god, I know how you feel,” her colleague, E, tells her as they unsuit back on the boat. E grunts as her tank clinks into its holder. “Sometimes I just don’t want to leave that world.” 
+<p>“My god, I know how you feel,” her colleague, E, tells her as they unsuit back on the boat. E grunts as her tank clinks into its holder. “Sometimes I just don’t want to leave that world.” </p>
 
-“Maybe that’s all it is,” A replies, but still she can’t explain why the sensation is getting stronger, or—could she say—worse?
+<p>“Maybe that’s all it is,” A replies, but still she can’t explain why the sensation is getting stronger, or—could she say—worse?</p>
 
-—
+<p>—</p>
 	
 Two hours later she is entering today’s data into the Thai governmental database. She and her team of interns had completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, and one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well.
 
@@ -93,4 +93,4 @@ She doesn’t think about the strange sensation. She’s thinking about the data
 The pressure is more intense this time, the movements of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the sunrays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above the ground in the middle of the stage. 
 
 And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation a few pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.
-</details></script>
+</details>
