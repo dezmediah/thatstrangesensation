@@ -1,12 +1,10 @@
 <details>
 	<summary>PART ONE</summary>
-	
-```js
+	<code>
+
 Lately, every time A ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her, disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, making her shield her eyes even as she felt herself hungrily drawing toward it.
-```
-```js	
+	
 And now she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.
-```
 
 Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately, even before her colleagues could swim down to rescue her. 
 
@@ -96,4 +94,5 @@ She doesn’t think about the strange sensation. She’s thinking about the data
 The pressure is more intense this time, the movements of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the sunrays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above the ground in the middle of the stage. 
 
 And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation a few pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.
+</code>
 </details>
