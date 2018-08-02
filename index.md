@@ -49,7 +49,7 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 
 <p>Pregnancy was unlikely, as she and her various partners on the island always used condoms, but you never knew. So she could understand a positive result and she could understand a negative result but a non-result was perplexing to say the least. Two different tests from two different companies.</p> 
 	
-*Just a little low on iron from my last period. Something, something like that.* 
+<p>*Just a little low on iron from my last period. Something, something like that.* </p>
 
 <p>It is barely five o clock. A breeze blows in and a rodent scampers across her roof. The cicadas are quieting down to a low, tired, scratching, only needing to cool themselves down a little in this breezy landscape.</p> 
 	
@@ -60,7 +60,7 @@ extent that they can explain the behavior, the signs and symbols of water.”
 
 <p>She can’t believe she slept 12 hours.</p>
 
-*Maybe I am fucking pregnant.*
+<p>*Maybe I am fucking pregnant.*</p>
 
 <p>Suddenly she feels tough and lichenous, tucked away inside herself from whatever might be happening outside.</p>
 
