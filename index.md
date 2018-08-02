@@ -7,7 +7,7 @@ Lately, every time A ascended, she felt on the verge of passing out. About two m
 
 <p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately, even before her colleagues could swim down to rescue her. </p>
 
-<p>*What an unscientific thought*. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered—the water directed your focus, plied your attention toward what it wanted to show you.</p>
+<p><em>What an unscientific thought.</em> Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered—the water directed your focus, plied your attention toward what it wanted to show you.</p>
 
 <p>“My god, I know how you feel,” her colleague, E, tells her as they unsuit back on the boat. E grunts as her tank clinks into its holder. “Sometimes I just don’t want to leave that world.” </p>
 
