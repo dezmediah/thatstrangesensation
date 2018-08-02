@@ -1,4 +1,3 @@
-
 <details>
 	<summary>PART ONE</summary>
 	<p>
