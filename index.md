@@ -1,6 +1,6 @@
 
 <details>
-	# <summary> PART ONE </summary>
+	<summary> PART ONE </summary>
 
 Lately, every time A ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her, disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, making her shield her eyes even as she felt herself hungrily drawing toward it.
 	
