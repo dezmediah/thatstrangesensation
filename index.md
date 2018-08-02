@@ -1,9 +1,12 @@
 <details>
 	<summary>PART ONE</summary>
-
-Lately, every time A ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her, disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, making her shield her eyes even as she felt herself hungrily drawing toward it.
 	
+```js
+Lately, every time A ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her, disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, making her shield her eyes even as she felt herself hungrily drawing toward it.
+```
+```js	
 And now she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.
+```
 
 Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately, even before her colleagues could swim down to rescue her. 
 
