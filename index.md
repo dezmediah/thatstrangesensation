@@ -96,3 +96,25 @@ The pressure is more intense this time, the movements of the water like a thousa
 And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation a few pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.
 
 </details>
+
+ summary::-webkit-details-marker {
+ color: #00ACF3;
+ font-size: 125%;
+ margin-right: 2px;
+}
+summary:focus {
+	outline-style: none;
+}
+article > details > summary {
+	font-size: 28px;
+	margin-top: 16px;
+}
+details > p {
+	margin-left: 24px;
+}
+details details {
+	margin-left: 36px;
+}
+details details summary {
+	font-size: 16px;
+}
