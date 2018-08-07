@@ -8,7 +8,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to make sure her team is well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately? </p>
 
-<p><em>What an unscientific thought</em>. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked the chemicals of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered. The water directed your focus, plied your attention toward what it wanted to show you.</p>
+<p><em>What an unscientific thought</em>. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked that of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered. The water directed your focus, plied your attention toward what it wanted to show you.</p>
 
 <p>“My god, I know how you feel,” her colleague, E, tells her as they unsuit back on the boat. E grunts as her tank clinks into its holder. “Sometimes I just don’t want to leave that world.” </p>
 
@@ -46,7 +46,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>**</p>
 
-<p>A couple hours later A is in her house, in her bed, behind the mosquito net. Her headache has faded and she feels fine. The storm has passed away, leaving behind thin, shifting, planes of air. She’s reading a dense, poetic book about water and how to interpret it. She’s enjoying the language, but can’t process much meaning from it. She puts the book down and looks at her nightstand. Two pregnancy tests rest there, staring up at her with two blank eyes. No results.</p>
+<p>A couple hours later A is in her house, in her bed, inside the mosquito net. Her headache has faded and she feels fine. The storm has passed away, leaving behind thin, shifting, planes of air. She’s reading a dense, poetic book about water and how to interpret it. She’s enjoying the language, but can’t process much meaning from it. She puts the book down and looks at her nightstand. Two pregnancy tests rest there, staring up at her with two blank eyes. No results.</p>
 
 <p><em>How is this possible?</em></p>
 
