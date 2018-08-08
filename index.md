@@ -68,7 +68,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>**</p>
 
-<p>On her motorbike drive to work, a rabid dog lunges toward her, causing her to swerve sharply. After driving off a safe distance, she stops and looks back at it. It lies in the middle of the road, sunning.</p>
+<p>On her motorbike drive to work, a rabid dog lunges at her, causing her to swerve sharply. After driving off a safe distance, she stops and looks back at it. It lies in the middle of the road, sunning.</p>
 
 <p>She gets to the lab before E and spends a quiet morning drinking coffee and looking over the data. The coral bleaching is getting worse and <em>what to do, what to do about that</em>. 50% bleached already and it’s only the beginning of the hot season. At some point in her meager little life, she’d decided that the best thing she could do was have this field station and report the data. Tell the authorities. Alert people in power. Bolster the science, strengthen the argument. Not shut up. Perhaps she should do more.</p> 
 
