@@ -72,9 +72,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>She gets to the lab before E and spends a quiet morning drinking coffee and looking over the data. The coral bleaching is getting worse and <em>what to do, what to do about that</em>. 50% bleached already and it’s only the beginning of the hot season. At some point in her meager little life, she’d decided that the best thing she could do was have this field station and report the data. Tell the authorities. Alert people in power. Bolster the science, strengthen the argument. Not shut up. Perhaps she should do more.</p> 
 
-<p>E enters the room with a clanging of bags and various attachments. Her helmet falls off her arm and rolls toward L.</p> 
-
-<p>Her eyes go wide and she feigns anger. “My god, what are you doing here?”</p>
+<p>E enters the room with a clanging of bags and various attachments. Her motorbike helmet falls off her arm and rolls toward L. E's eyes go wide and she feigns anger. “My god, what are you doing here?”</p>
 
 <p>“What do you mean?” L says.</p> 
 
@@ -86,7 +84,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>**</p>
 
-<p>Two hours later they’re diving again. Today, it’s been determined that L will be divemaster for two of the more experienced students and E will take the newbies. That way, the experienced students can cover some of the more routine data gathering and L can be free to focus on her pet research project, which tests whether smaller solitary corals are less resistant to bleaching than larger solitary corals.</p>  
+<p>Two hours later they’re diving again. It’s been determined L will be divemaster for two of the more experienced students and E will take the newbies. That way, the experienced students can cover some of the more routine data gathering and L can be free to focus on her pet research project, which tests whether smaller solitary corals are less resistant to bleaching than larger solitary corals.</p>  
 
 <p>E's group lays out the transects while L and her interns hang back and look at coral. She breathes out and sinks closer in to some branching coral, the home of twenty or so baby, white and yellow butterfly fish, who dart in and out like bees. She wishes she were doing a fish survey so that these lovely, tiny fish could be counted. If only their presence could be felt, could matter in the world. But probably they don’t care either way, probably that doesn’t matter to them.</p> 
 
