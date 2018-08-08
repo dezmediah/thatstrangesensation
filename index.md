@@ -72,7 +72,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>She gets to the lab before E and spends a quiet morning drinking coffee and looking over the data. The coral bleaching is getting worse and <em>what to do, what to do about that</em>. 50% bleached already and it’s only the beginning of the hot season. At some point in her meager little life, she’d decided that the best thing she could do was have this field station and report the data. Tell the authorities. Alert people in power. Bolster the science, strengthen the argument. Not shut up. Perhaps she should do more.</p> 
 
-<p>E enters the room with a clanging of bags and various attachments. Her helmet, which is attached to her arm, falls off and rolls toward L.</p> 
+<p>E enters the room with a clanging of bags and various attachments. Her helmet falls off her arm and rolls toward L.</p> 
 
 <p>Her eyes go wide and she feigns anger. “My god, what are you doing here?”</p>
 
