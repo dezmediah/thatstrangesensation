@@ -18,7 +18,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	
 <p>Two hours later she is entering the day’s data into the Thai governmental database. On that morning's dive, she and her team of interns completed a fish survey and noted this bounty: forty-five butterfly fish, nine bream, five parrot fish, three angel fish, twenty-five wrasse, forty-five cardinal fish, and one soap fish. Still much fewer snapper than she’d like to be seeing, but the other fishes were doing well.</p>
 
-<p>E types away beside her, probably messaging with a prospective intern, an eager undergraduate or beleaguered graduate student, looking for a suitable research site to host them as well as an exciting Southeast Asian experience. A storm has rolled in. L’s nostrils are alerted to a metallic smell as large raindrops begin to fire away on the roof as if they mean to put a hole in it. She feels as if the space has become smaller, as if the world would be happy to do them in.</p>
+<p>E types away beside her, probably messaging with a prospective intern: an eager undergraduate or beleaguered graduate student, looking for a suitable research site to host them as well as an exciting Southeast Asian experience. A storm has rolled in. L’s nostrils are alerted to a metallic smell as large raindrops begin to fire away on the roof as if they mean to put a hole in it. She feels as if the space has become smaller, as if the world would be happy to do them in.</p>
 
 <p>L leans her forehead on her hand, rubs her temples. “I’ve got a bit of a headache now,” she says. E turns toward her and frowns.</p> 
 	
