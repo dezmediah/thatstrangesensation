@@ -6,7 +6,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	
 <p>And now, once again, she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
 
-<p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to check that the student researchers under her supervision are well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately? </p>
+<p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to check that the interns she's been diving with are well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately? </p>
 
 <p><em>What an unscientific thought</em>. Likely she was becoming dizzy as a result of a slight physiological malfunction. An inner ear issue. Or maybe it was simply that this feeling mimicked that of not wanting to wake up from a good dream—it was so peaceful under there after all, so cozy, meditative. Your mind couldn’t be scattered. The water directed your focus, plied your attention toward what it wanted to show you.</p>
 
