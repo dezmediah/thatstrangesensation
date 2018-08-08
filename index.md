@@ -2,7 +2,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <details><summary><h2>PART ONE</h2></summary>
 	<p></p>
-<p>Lately, every time L ascended, she felt on the verge of passing out. It went the same way every time. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>
+<p>Lately, every time L ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>
 	
 <p>And now, once again, she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
 
