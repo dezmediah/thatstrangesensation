@@ -34,7 +34,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>“My god, what is wrong with you?” E yells, her Russian accent really coming out now. “Do you want me to call an ambulance?”</p>
 
-<p>“No, no,” she says. “I just stood up too fast I think. Something a little off with my circulation lately, maybe my blood pressure.”</p>
+<p>“No, no,” L says. “I just stood up too fast I think. Something a little off with my circulation lately, maybe my blood pressure.”</p>
 
 <p><em> Maybe I’m fucking pregnant. Fucking pregnant, that’s a funny phrase.</em></p> 
 	
