@@ -80,7 +80,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>“I thought you’d take the day off.”</p> 
 
-<p>“Oh I’m fine,” she says.</p> 
+<p>“Oh I’m fine. Got a good night's sleep."</p> 
 
 <p>E tuts and shakes her head reprovingly.</p>
 
