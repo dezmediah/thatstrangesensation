@@ -82,11 +82,11 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <p>“Oh I’m fine,” she says.</p> 
 
-<p>E tuts and shakes her head disapprovingly.</p>
+<p>E tuts and shakes her head reprovingly.</p>
 
 <p>**</p>
 
-<p>Two hours later they’re diving again. Today, perhaps out of E’s concern, it’s been determined that A will be divemaster for two of the more experienced students. That way, they can cover some of the more routine data gathering and A can be free to focus on her pet research project, which tests whether smaller solitary corals are less resistant to bleaching than larger solitary corals.</p>  
+<p>Two hours later they’re diving again. Today, it’s been determined that L will be divemaster for two of the more experienced students and E will take the newbies. That way, the experienced students can cover some of the more routine data gathering and L can be free to focus on her pet research project, which tests whether smaller solitary corals are less resistant to bleaching than larger solitary corals.</p>  
 
 <p>Another group lays out the transects while the three of them hang out and look at coral. She breathes out and sinks closer in to some branching coral, the home of twenty or so baby white and yellow butterfly fish, who dart in and out like bees. She wishes she were doing a fish survey so that these lovely, tiny fish could be counted. If only their presence could be felt, could matter in the world. But probably they don’t care either way, probably that doesn’t matter to them.</p> 
 
