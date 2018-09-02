@@ -1,5 +1,5 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
-<div>
+
 <details>
 	<summary>	
 	<h4>PART ONE</h4></summary><p></p>
@@ -51,10 +51,13 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>**</p>
 	<p>The pressure is more intense this time, the movements of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the sunrays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above an empty stage.</p> 
 	<p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation and pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> 
-	<p> xxxxxxxxxxxxxxxxx </p></details>
-</div>
+	<p> xxxxxxxxxxxxxxxxx </p>
 
-<div>
+
+
+
+
+</details>
 
 <details>
 	<summary>
