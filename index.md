@@ -97,8 +97,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 <p>The pressure is more intense this time, the movements of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the sunrays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above an empty stage.</p> 
 
 <p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation and pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> 
-
 <p> xxxxxxxxxxxxxxxxx </p></details>
+
 <details><summary><h2>PART TWO</h2></summary>
 	<p></p>
 	<p>She sits up and digs her hands into the cool sand. She’s right at the shore line and the water laps at her like a salt-seeking dog. She examines her limbs and finds no wounds, no bruises, no scraped skin. Her skull, too, appears unharmed. She is intact. Despite this, she feels weak and somewhat disoriented. Not knowing what else to do, she lies back and waits for understanding to return to her. </p>
@@ -128,5 +128,5 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>He makes a sympathetic noise with his mouth that she can’t quite interpret. “Why don’t we come back to the house first thing? You see—you’ve landed on a pretty peculiar little island here. I’ll explain everything back at the house. We’ve got great people there that can take care of you. So please, it’s just a five minute walk into the forest. Let me show you.”</p>
 	<p><em>Definitely a cult. Oh well, maybe they’ll have a phone at least.</em></p>
 	<p>She hoists herself up, declining his proffered hand. They begin walking toward the forest. She expects to hobble a bit, to stumble maybe, but instead she feels lithe.</p>
-	<p>xxxxxxxxxxxxxxxxxxxxx</p>
-</details>
+	<p>xxxxxxxxxxxxxxxxxxxxx</p></details>
+
