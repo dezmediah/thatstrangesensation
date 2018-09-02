@@ -1,8 +1,7 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary><h4>PART ONE</h4></summary>
-	<p></p>
+	<summary><h4>PART ONE</h4></summary><p></p>
 	<p>Lately, every time L ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>	
 	<p>And now, once again, she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
 	<p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to check that the interns she's been diving with are well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately? </p>
@@ -53,6 +52,13 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation and pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> 
 	<p> xxxxxxxxxxxxxxxxx </p>
 </details>
+
+
+
+
+
+
+
 
 <details>
 	<summary><h4>PART TWO</h4></summary>
