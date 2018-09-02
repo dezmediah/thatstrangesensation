@@ -1,8 +1,7 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary>
-		
+	<summary>	
 	<h4>PART ONE</h4></summary><p></p>
 	<p>Lately, every time L ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>	
 	<p>And now, once again, she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
@@ -51,18 +50,11 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>She doesn’t think about that strange sensation. She’s thinking about the data she gathered and about what conclusions she might begin to draw. Slowly, slowly, she swims up, not even needing to think about moving her feet, just willing herself up. And then, at three meters from the surface, once again, it hits.</p>	
 	<p>**</p>
 	<p>The pressure is more intense this time, the movements of the water like a thousand little flies distracting her attention. The light hits and she feels the heat of the sunrays on her body. The rays form a cone, which twists around her, and she is an unwilling dancer, moving her limbs oddly, floating six inches above an empty stage.</p> 
-	<p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation and pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> 
-	<p> xxxxxxxxxxxxxxxxx </p>
-
-
-
-
-
+	<p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation and pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> <p> xxxxxxxxxxxxxxxxx </p>
 </details>
 
 <details>
 	<summary>
-		
 	<h4>PART TWO</h4></summary>
 	<p></p>
 	<p>She sits up and digs her hands into the cool sand. She’s right at the shore line and the water laps at her like a salt-seeking dog. She examines her limbs and finds no wounds, no bruises, no scraped skin. Her skull, too, appears unharmed. She is intact. Despite this, she feels weak and somewhat disoriented. Not knowing what else to do, she lies back and waits for understanding to return to her. </p>
