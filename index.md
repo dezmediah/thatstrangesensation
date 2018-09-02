@@ -53,7 +53,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 </details>
 
 <details>
-	<h4>PART TWO</h4></summary>
+	<summary><h4>PART TWO</h4></summary>
 	<p></p>
 	<p>She sits up and digs her hands into the cool sand. She’s right at the shore line and the water laps at her like a salt-seeking dog. She examines her limbs and finds no wounds, no bruises, no scraped skin. Her skull, too, appears unharmed. She is intact. Despite this, she feels weak and somewhat disoriented. Not knowing what else to do, she lies back and waits for understanding to return to her. </p>
 	<p><em>Probably this is a remote beach near where we were diving. And…my team just thought I needed medical attention and that I shouldn’t be moved. Probably they’ll be back soon.</em></p>
