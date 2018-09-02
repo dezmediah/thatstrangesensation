@@ -1,8 +1,7 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary>	
-	<h4>PART ONE</h4></summary><p></p>
+	<summary><h4>PART ONE</h4></summary><p></p>
 	<p>Lately, every time L ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>	
 	<p>And now, once again, she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
 	<p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to check that the interns she's been diving with are well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately? </p>
@@ -54,7 +53,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 </details>
 
 <details>
-	<summary>
 	<h4>PART TWO</h4></summary>
 	<p></p>
 	<p>She sits up and digs her hands into the cool sand. She’s right at the shore line and the water laps at her like a salt-seeking dog. She examines her limbs and finds no wounds, no bruises, no scraped skin. Her skull, too, appears unharmed. She is intact. Despite this, she feels weak and somewhat disoriented. Not knowing what else to do, she lies back and waits for understanding to return to her. </p>
@@ -86,4 +84,3 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>She hoists herself up, declining his proffered hand. They begin walking toward the forest. She expects to hobble a bit, to stumble maybe, but instead she feels lithe.</p>
 	<p>xxxxxxxxxxxxxxxxxxxxx</p>
 </details>
-</div>
