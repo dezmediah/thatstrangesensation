@@ -48,6 +48,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>“That’s our best guess right now,” Ivy says, to L’s shock. “Most of the others are scientists, and there were tools left for making all sorts of robots and shit. Perhaps someone wanted to see what we could do with this world we seem to be stranded in.”</p>
 	<p>“What do you do then?” L asks.</p>
 	<p>“I’m a cartoonist,” Ivy says with a shrug.</p>
+	</details>
 
 	
 <details>
