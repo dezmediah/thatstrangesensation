@@ -1,4 +1,5 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
+
 <details>
 	<summary><h4>PART THREE</h4></summary>
 	<p>Just inside the forest is what appears to be a small village. All around her, wedged in between tall coconut and palm trees, are simple bamboo huts on platforms. There must be thirty or so, each of a similar size and design: a window on the left and a bamboo door. Inside the open huts L sees an odd assortment of camping pads, sheets, quilts, and knitted blankets.</p> 
@@ -47,7 +48,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>“That’s our best guess right now,” Ivy says, to L’s shock. “Most of the others are scientists, and there were tools left for making all sorts of robots and shit. Perhaps someone wanted to see what we could do with this world we seem to be stranded in.”</p>
 	<p>“What do you do then?” L asks.</p>
 	<p>“I’m a cartoonist,” Ivy says with a shrug.</p>
-	</details>
+</details>
+	
 <details>
 	<summary><h4>PART TWO</h4></summary>
 	<p></p>
@@ -80,6 +82,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>She hoists herself up, declining his proffered hand. They begin walking toward the forest. She expects to hobble a bit, to stumble maybe, but instead she feels lithe.</p>
 	<p>xxxxxxxxxxxxxxxxxxxxx</p>
 </details>
+
 <details>
 	<summary><h4>PART ONE</h4></summary><p></p>
 	<p>Lately, every time L ascended, she felt on the verge of passing out. About two meters from the surface, she’d find herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water would squeeze her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, would hit her like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>	
