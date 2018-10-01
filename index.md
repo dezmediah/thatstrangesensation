@@ -1,7 +1,52 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 <details>
 	<summary><h4>PART THREE</h4></summary>
-	<p></p>
+	<p>Just inside the forest is what appears to be a small village. All around her, wedged in between tall coconut and palm trees, are simple bamboo huts on platforms. There must be thirty or so, each of a similar size and design: a window on the left and a bamboo door. Inside the open huts L sees an odd assortment of camping pads, sheets, quilts, and knitted blankets.</p> 
+	<p>Deeper into the forest, there is a large, two-story house made of adobe bricks. A gate closes off the first story, creating a crawl space and flood zone underneath the main area of the house. On the second story, there is a large porch, where electronics and various supplies are laid out. The place is porous, open-doored, an inside-outside place. It looks like it could be overtaken by the jungle at any moment.</p>
+	<p>As they approach someone shouts from inside, “Ahhh!!” Alarmed, L looks at her new host, eyes wide.</p>
+	<p>“That’s okay,” he says. “That’s just Ivy. She probably saw a snake.” He’s smiling again.</p>
+	<p><em>This guy is cheery.</em></p>
+	<p>She continues to follow him up the dirt path toward the house, looking out for snakes and other critters. On her island she’d grown used to keeping an eye out for certain critters: red centipedes whose sting is so potent you need morphine to deal with the pain, two-meter long cobras, sand flies whose bites took weeks to stop itching. But who know what the critters are here. She figures she can’t be too far from home, but something tells her she can’t be so sure.</p>
+	<p><em>My sense of direction is off. The iron in my nose is de-magnetized, as my dad used to say. Ha.</em></p> 
+	<p>On the porch are several bamboo woven maps, upon which are arrayed a variety of tools; arduinos, wires, and batteries, as well as natural tools like coconut husks, banana leaf wrappers, and small structures made from bent sticks.</p>
+	<p>Inside the house several other scruffy humans stretched out on bamboo mats. Some of them are writing or drawing on paper, others arrange wires on small circuit boards.</p>
+	<p>“This is everybody,” he says, gesturing. “You’ll meet them all in a moment.”</p>
+	<p><em>Why do I need to meet all these people? Can’t you take me back home? </p>
+	<p>They all look up at her with the same genre of expression: empathetic despair.</p>
+	<p>She doesn’t feel despair, or rather didn’t. But now it creeps in, a worm that multiplies and divides again and again, until it has clogged up her brain, rendering her physiology sluggish.</p>
+	<p>George catches this in her eyes.</p>
+	<p>“Let’s talk for a bit,” he says and motions to two lawn chairs in the corner beside a small table. They are within earshot of the rest of the group and it makes L uncomfortable. The word cult flashes again in her mind and she remembers the story of a woman two years back, found in the jungle on her home island. Barely twenty years old, trying to escape from a yoga cult, she thought she could take a shortcut through the jungle. A couple weeks later she was found dead, half-eaten by lizards. </p>
+	<p>“I know this is weird,” George says, and L notices for the first time that his voice is soothing, or rather that it has all the qualities of being soothing, while at the same time giving off an artificial effect.</p>
+	<p>“You’re in a strange place. When I first got here it felt like a dream place. I kept feeling like I would wake up soon and go back home. But…well…I’ll explain that part later. First thing you should know is that you’re safe and the people here are safe. These are good people. Generally they’re artists, scientists, engineers… Would you say you fit into one of those categories?”</p>
+	<p>“Biologist,” she murmured.</p>
+	<p>“Ahhh a biologist. Interesting. The last four have been biologists, perhaps there’s a new species we’re meant to discover,” he said to her, but well within earshot of the others, who turned and raised their eyebrows in interest.</p>
+	<p>“What?!” she says, out loud now, annoyed now. “What are you talking about?”</p> 
+	<p>“I’m sorry, I know this is overwhelming at first</p>
+	<p>“Look, all I need is a phone!” she says firmly.</p>
+	<p>“We don’t have one here,” he says. </p>
+	<p>She’s getting ready to give up, walk back down to the beach and figure this out on her own. Get away from these weirdos. “Look,” she says. “I just got in a little bit of trouble SCUBA diving and need some help getting home. Are you going to help me get back home? Are you? If I’m being totally upfront with you, if I’m being totally fuckin’ straight, I don’t really know where I am or how I got here. I was SCUBA diving. I was under the FUCKING WATER AND NOW I’M HERE.” She’s got her hands on the arms of her chair now, more weight flowing into them bit by bit.</p>
+	<p>The room is staring at her now, but they seem unconcerned. George looks at her with understanding.</p>
+	<p>“I’m sorry,” he says, looking genuinely contrite. “We’re still figuring out how to welcome people. I know I was totally confused when I got here. You see, this is not a normal island. You’ve…well… teleported here. Or time traveled or something. We all did.”</p>
+	<p>She gets up, her knees slightly bending, her hands almost in fight stance. As she walks toward the door, the creak of her bare footsteps on the wooden floor fill the room. The others gaze up at her with the same sorry empathy they had for her before.</p>
+	<p>On the porch, the sun hits her hard and she begins running toward the beach.</p>
+	<p><em>What the fuck what the fuck what the fuck.</em></p>
+	<p>She plops herself down under a palm tree and puts her hands on her temples. Her headache is coming back.</p>
+	<p>**</p>
+	<p>After a few minutes a woman approaches her and sits down nearby. At first, L avoids her gaze.</p>
+	<p>“Um, if you want I can try to explain things,” she says after a moment.</p>
+	<p>L looks at her. This woman doesn’t have the wide-eyed look of the others. She exudes calm.</p>
+	<p>“So, uh, ok here we go. Well first of all, we don’t know what this place is exactly.”</p>
+	<p><em>Great.</em></p>
+	<p>“But, what we do know is that people started showing up here two months ago and we get a new person every couple of days. People show up on the beach in various states of undress, without any possessions. Last week, I was in the middle of taking off for a flight to Singapore, and then I found myself washed up on that beach, trying to breath through a nose full of sand. Another few people were SCUBA diving, just like you, when they showed up.”</p>
+	<p>She trails off, she seems to be trying to prioritize all the information she has to convey.</p>
+	<p>“Also, we can’t really go anywhere else. We can leave, we’ve built a raft to explore and the sea is pretty calm usually. But the sea is full of jellyfish and trash. And there is some land across the bay, but it appears to be radioactive. This little island is like a Garden of Eden or something. Unlike everything else, it’s not radioactive and apparently, according to George and some of the others who got here first, there were all these supplies there, even when the first ones arrived. There is fresh water, and plenty of food to be foraged. The little kitchen off the main house was there, stocked with some basics. You can see we’re starting some gardens near the house,” she says, pointing toward rows of dark, humus-laden, bare earth, near the front porch of the house.</p> 
+	<p>L wants to believe it’s a joke, or a dream, or something, but there is emotion behind what this woman says. If it’s all a trick, her spidey senses are not being activated—despite herself, she’s buying in, at least for now.</p>
+	<p>“What the hell?” L says, her eyes sparkling.</p>
+	<p>The woman widens her eyes and tightens her mouth, as if to say, yeah, pretty fucked up right? “I’m Ivy, by the way,” she says and shakes L’s hand.</p>
+	<p>“So what, were we brought here by some evil scientist or something?” L says, laughing.</p>
+	<p>“That’s our best guess right now,” Ivy says, to L’s shock. “Most of the others are scientists, and there were tools left for making all sorts of robots and shit. Perhaps someone wanted to see what we could do with this world we seem to be stranded in.”</p>
+	<p>“What do you do then?” L asks.</p>
+	<p>“I’m a cartoonist,” Ivy says with a shrug.</p>
 	</details>
 <details>
 	<summary><h4>PART TWO</h4></summary>
