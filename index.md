@@ -12,7 +12,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>On the porch are several bamboo woven maps, upon which are arrayed a variety of tools; arduinos, wires, and batteries, as well as natural tools like coconut husks, banana leaf wrappers, and small structures made from bent sticks.</p>
 	<p>Inside the house several other scruffy humans stretched out on bamboo mats. Some of them are writing or drawing on paper, others arrange wires on small circuit boards.</p>
 	<p>“This is everybody,” he says, gesturing. “You’ll meet them all in a moment.”</p>
-	<p><em>Why do I need to meet all these people? Can’t you take me back home? </p>
+	<p><em>Why do I need to meet all these people? Can’t you take me back home?</em></p>
 	<p>They all look up at her with the same genre of expression: empathetic despair.</p>
 	<p>She doesn’t feel despair, or rather didn’t. But now it creeps in, a worm that multiplies and divides again and again, until it has clogged up her brain, rendering her physiology sluggish.</p>
 	<p>George catches this in her eyes.</p>
