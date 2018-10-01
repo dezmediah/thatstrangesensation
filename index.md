@@ -1,5 +1,8 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
-
+<details>
+	<summary><h4>PART THREE</h4></summary>
+	<p></p>
+	</details>
 <details>
 	<summary><h4>PART TWO</h4></summary>
 	<p></p>
