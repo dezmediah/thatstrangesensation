@@ -20,7 +20,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>"Oh, well that's pretty fuckin' handy," says L.</p> 
 	<p>"Yeah, pretty much everyone who arrives here has some kind of highly relevant skill," says George. His tone is nonchalant, but his expression communicates otherwise. It says, yeah, isn't that fuckin' creepy?</p> 
 	<p>"So," says L.</p> 
-	<p>"So, the last time we rowed up to the border, it was at 5 sieverts per hour. That's pretty damn high. If we stayed at that level for an entire hour, at least one of us would die within a couple weeks."</p></p>
+	<p>"So, the last time we rowed up to the border, it was at 5 sieverts per hour. That's pretty damn high. If we stayed at that level for an entire hour, at least one of us would die within a couple weeks."</p>
 	<p>"Woah," says L.</p>
 	<p>"But, when we take a reading, we just row up to it quickly, stay there for maybe 5 seconds before rowing back--the levels fall really quickly down to a safe level. So we end up getting a dose of like .007. That's like...4 CT scans?"</p>
 	<p>"Ya know what? I think I'll go for a swim," says L. "Let you guys do your thing."</p> 
