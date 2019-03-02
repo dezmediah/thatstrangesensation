@@ -47,9 +47,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>L follows his gaze. After a minute, she sees something. Or did she? A ripple in the calm black water. So small she doesn't say anything. But then, a minute later, the three of them gasp. Back beyond one of the gold crates, something emerges out of the water and then dips back down under it. A whale, or a shark, the hint of its shiny grey back standing out in stark contrast against the onyx of the water. But there was something strange about it, something on its back.</p> 
 	<p>When it appears again, it's much closer. L sees now that it has a band around its torso, a wide, black rubber band, and attached to the band is something, something with a screen and flashing red figures. "It's a bryde whale," says L, noting the tall, falcate dorsal fin, and now, as it resurfaces again, the three characteristic head ridges. Again, a whale endemic to the Gulf of Thailand, one she would have no trouble identifying, even though she's seen them only a handful of times.</p> 
 	<p>The three of them are frozen as the whale approaches. The next time it emerges, it breaches, straining up out of the water, higher than it seems it should be able to go before it slams its gigantic body back down, creating a huge splash, the edges of which reach their boat and provide a cool relief to L's burning forehead. Her breath is shallow. On the screen were numbers--what were they?</p> 
-	<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.
-		</p>
-</details
+	<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.</p>
+</details>
 		
 <details>
 	<summary><h4>PART FOUR</h4></summary>
