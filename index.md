@@ -1,6 +1,56 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
-
+<details>
+	<summary><h4>PART FIVE</h4></summary>
+	<p>It feels right to be out on the water again. Back in her old life, L spent nearly every morning on a long-tail boat going out to a dive site. That half-hour ritual had always allowed her to collect her thoughts, the noise of the gas engine drowning out everything but the waves, the wind, and the sun. A morning boat ride meant she was on her way to do something worthwhile.</p>
+	<p>But there is no sound of an engine here. Only the creak of a metal boat, and oars slapping the water. And instead of soaring along, Ivy and George are slowly rowing them toward the astonishing border, which shines fluorescent green against the bright blue sky.</p>
+	<p>Their progress is strained, because as they approach the threshold, the current resists them. George's hairy back begins sweating profusely, but Ivy has covered up well, in a hat and baggy white shirt.</p> 
+	<p>When L shields her eyes, she can see a tiny wave, maybe 15 centimeters high, zig-zagging along the border. She tries to think of scientific reasons for this--underground columns perhaps, but nothing, nothing about it seems natural.</p> 
+	<p>They stop rowing. By now, she can see what those shapes are that she'd noticed from the shore. Islands of plastic crates, painted a neon gold that glints in the sun. Behemoths, guarding whatever lies beyond.</p>
+	<p>"What's in all these crates?"</p>
+	<p>"We haven't been able to figure that out," says George. He digs in his bag and removes a handheld device with a screen on it. He swipes his thumb across it to turn it on and, after a moment, a reading of ".3" shows up. "It's not safe to go check them out."</p> 
+	<p>"What's that?" L asks.</p>
+	<p>"A geiger counter," says Ivy. "You have to take one when you come out here."</p>
+	<p>"Is .3 safe?" L asks.</p> 
+	<p>".3 sieverts isn't great, but for a short period of time, we're fine," says George.</p> 
+	<p>"What about closer to the border? Does it change?"</p> 
+	<p>"Oh yeah," says Ivy. "It gets much worse. Actually, George had wanted to take another reading of the levels closer to the border. But we don't have to if you're not comfortable."</p> 
+	<p>"Well, if you guys are sure it's safe enough. I mean do you know for sure how dangerous it is? I don't mean to be rude, but..." How reckless are we being here?</p>
+	<p>"Well, yeah, I do," says George. "I'm a nuclear engineer."</p>
+	<p>"Oh, well that's pretty fuckin' handy," says L.</p> 
+	<p>"Yeah, pretty much everyone who arrives here has some kind of highly relevant skill," says George. His tone is nonchalant, but his expression communicates otherwise. It says, yeah, isn't that fuckin' creepy?</p> 
+	<p>"So," says L.</p> 
+	<p>"So, the last time we rowed up to the border, it was at 5 sieverts per hour. That's pretty damn high. If we stayed at that level for an entire hour, at least one of us would die within a couple weeks."</p></p>
+	<p>"Woah," says L.</p>
+	<p>"But, when we take a reading, we just row up to it quickly, stay there for maybe 5 seconds before rowing back--the levels fall really quickly down to a safe level. So we end up getting a dose of like .007. That's like...4 CT scans?"</p>
+	<p>"Ya know what? I think I'll go for a swim," says L. "Let you guys do your thing."</p> 
+	<p>"Totally cool," says George.</p> 
+	<p>L hops out of the boat and swims a bit toward the shore. George and Ivy give each other a look and then row three times, moving several meters forward before bobbing back a half-meter. L sees Ivy record the reading in a small notebook and then they quickly row back toward her.</p>
+	<p>"What'd it say?"</p>
+	<p>"4.9," says Ivy. "About the same as last time."</p> 
+	<p>L pulls herself back into the boat. "So now what?"</p>
+	<p>"Typically," George says, "We row to a safe area and then we just chill. It seems pretty obvious that we need to go check out those crates, but there's no way to get out there. So we've somehow got to bring them--"</p>
+	<p>"To us," says L.</p> 
+	<p>"Exactly," says George.</p> 
+	<p>"Won't they be radioactive?"</p>
+	<p>"We'll see. The radiation could fall back down past the border zone, we don't actually know. That black water could be totally safe."</p>
+	<p>"It doesn't look like the safest water," L says. As a SCUBA diver, the opaqueness of the water beyond the threshold horrifies her at a deep level.</p> 
+	<p>"No," says George. "But, even if the crates are radioactive, there's ways to clean things to make them safer to handle."</p> 
+	<p>"Gotcha. So now, we just think?"</p>
+	<p>George turns up his hands. "Nothing better to do really."</p>
+	<p>They row back to an even lower radiation level and Ivy gets out her drawing supplies. The sun is really out now. L wishes she'd brought more cover. In her haste, she didn't even bring a hat and is just wearing her bathing suit top and shorts. "You try a magnet?" she asks.</p> 
+	<p>"We'd need a pretty fucking powerful magnet," says George.</p> 
+	<p>She has no other ideas. "Well, what have you tried?"</p>
+	<p>"Uh, nothing?" says George. "We've mainly been setting things up, trying to survive. Ivy and I only recently started trying to come out here regularly.</p> 
+	<p>They sit in silence. After awhile, Ivy has drawn a striking image of the border, capturing with her colored pencils the near exact shade, and fluorescent nature of its glowing green. Finally she puts the sketchbook down. "I guess we should head back soon," she says.</p>
+	<p>"Wait," says George. "Just give me a few more minutes." L notices that his brow has furrowed and his whole body has become still. He stares at a single spot in the direction of one of the crates.</p> 
+	<p>L follows his gaze. After a minute, she sees something. Or did she? A ripple in the calm black water. So small she doesn't say anything. But then, a minute later, the three of them gasp. Back beyond one of the gold crates, something emerges out of the water and then dips back down under it. A whale, or a shark, the hint of its shiny grey back standing out in stark contrast against the onyx of the water. But there was something strange about it, something on its back.</p> 
+	<p>When it appears again, it's much closer. L sees now that it has a band around its torso, a wide, black rubber band, and attached to the band is something, something with a screen and flashing red figures. "It's a bryde whale," says L, noting the tall, falcate dorsal fin, and now, as it resurfaces again, the three characteristic head ridges. Again, a whale endemic to the Gulf of Thailand, one she would have no trouble identifying, even though she's seen them only a handful of times.</p> 
+	<p>The three of them are frozen as the whale approaches. The next time it emerges, it breaches, straining up out of the water, higher than it seems it should be able to go before it slams its gigantic body back down, creating a huge splash, the edges of which reach their boat and provide a cool relief to L's burning forehead. Her breath is shallow. On the screen were numbers--what were they?</p> 
+	<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.
+		</p>
+</details
+		
 <details>
 	<summary><h4>PART FOUR</h4></summary>
 	<p>After her conversation with Ivy, L walks down to the beach and digs a shallow hole. She lies down in it and imagines she’s her old family dog. She sniffs at the salty air and tries to slow her heartbeat. As the sun begins to set, she falls asleep.</p>
