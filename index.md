@@ -42,10 +42,9 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>"Impossible," someone says. "They're radioactive."</p>
 				<p>"Yep," George says. "And we were beamed through space and time onto this fucking island."</p><p>It's as if the group has suddenly pointed themselves in the same direction, aligned with one another spiritually, and L can feel the energy shift into something powerful—the potential energy of a group of twenty or more people committed to a singular goal.</p>
 				<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
-				<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p> 
-			</details>
+				<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p></details>
 		</details>
-		<details>
+	<details>
 			<summary><h5>Parts 1-5</h5></summary>
 			<details>
 				<summary><h5>PART FIVE</h5></summary>
