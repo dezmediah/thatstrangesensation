@@ -43,9 +43,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 			<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
 			<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p> 
 		</details>
-		
-					
-***PARTS 1-5
 		<details>
 		<summary><h5>Parts 1-5</h5></summary>
 		<summary><h4>PART FIVE</h4></summary>
@@ -123,8 +120,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 			<p>“No one’s gotten rad poisoning yet,” says George with a shrug.</p> 
 			<p>“It’s not dangerous as long as we don’t go over the radioactive threshold,” Ivy explains. “Would you like to join?”</p> 
 		</details>
-			
-***PART TWO
 		<details>
 			<summary><h4>PART THREE</h4></summary>
 			<p>Just inside the forest is what appears to be a small village. All around her, wedged in between tall coconut and palm trees, are simple bamboo huts on platforms. There must be thirty or so, each of a similar size and design: a window on the left and a bamboo door. Inside the open huts L sees an odd assortment of camping pads, sheets, quilts, and knitted blankets.</p> 
