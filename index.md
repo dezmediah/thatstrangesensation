@@ -3,7 +3,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 <html>
 	<body>
 		<details>
-			<summary><h5>Parts 6-10</h5></summary>
+			<summary><h5>Parts 6 +</h5></summary>
 			<details>
 				<summary><h5>PART SIX</h5></summary>
 				<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
