@@ -44,6 +44,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
 				<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p> 
 			</details>
+		</details>
 		<details>
 			<summary><h5>Parts 1-5</h5></summary>
 			<details>
@@ -96,7 +97,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.</p>
 			</details>
 			<details>
-				<summary><h4>PART FOUR</h4></summary>
+				<summary><h5>PART FOUR</h5></summary>
 				<p>After her conversation with Ivy, L walks down to the beach and digs a shallow hole. She lies down in it and imagines she’s her old family dog. She sniffs at the salty air and tries to slow her heartbeat. As the sun begins to set, she falls asleep.</p>
 				<p>She wakes to a touch on her shoulder. It’s George, standing over her, bathed in the waning green light coming from the horizon. Next to him is a squat, bearded man with an inscrutable expression.</p>
 				<p>“Sorry!” George says. “We just thought you should probably get set up for the night! This is Brendan, our resident tent-builder.” The other man sticks out his hand and L shakes it. “Brendan doesn’t talk,” George says. “He used to be able to before he arrived, apparently.”</p> 
@@ -123,7 +124,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>“It’s not dangerous as long as we don’t go over the radioactive threshold,” Ivy explains. “Would you like to join?”</p> 
 			</details>
 			<details>
-			<summary><h5>PART THREE</h5></summary>
+				<summary><h5>PART THREE</h5></summary>
 				<p>Just inside the forest is what appears to be a small village. All around her, wedged in between tall coconut and palm trees, are simple bamboo huts on platforms. There must be thirty or so, each of a similar size and design: a window on the left and a bamboo door. Inside the open huts L sees an odd assortment of camping pads, sheets, quilts, and knitted blankets.</p> 
 				<p>Deeper into the forest, there is a large, two-story house made of adobe bricks. A gate closes off the first story, creating a crawl space and flood zone underneath the main area of the house. On the second story, there is a large porch, where electronics and various supplies are laid out. The place is porous, open-doored, an inside-outside place. It looks like it could be overtaken by the jungle at any moment.</p>
 				<p>As they approach someone shouts from inside, “Ahhh!!” Alarmed, L looks at her new host, eyes wide.</p>
@@ -167,8 +168,9 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>“That’s our best guess right now,” Ivy says, to L’s shock. “But again, we don't know. Most of the others are scientists, and there were tools left for making all sorts of robots and shit. Perhaps someone wanted to see what we could do with this world we seem to be stranded in.”</p>
 				<p>“What do you do then?” L asks.</p>
 				<p>“I’m a cartoonist,” Ivy says with a shrug.</p>
-		<details>
-			<summary><h5>PART TWO</h5></summary>
+			</details>
+			<details>
+				<summary><h5>PART TWO</h5></summary>
 				<p></p>
 				<p>She sits up and digs her hands into the cool sand. She’s right at the shore line and the water laps at her like a salt-seeking dog. She examines her limbs and finds no wounds, no bruises, no scraped skin. Her skull, too, appears unharmed. She is intact. Despite this, she feels weak and somewhat disoriented. Not knowing what else to do, she lies back and waits for understanding to return to her. </p>
 				<p><em>Probably this is a remote beach near where we were diving. And…my team just thought I needed medical attention and that I shouldn’t be moved. Probably they’ll be back soon.</em></p>
