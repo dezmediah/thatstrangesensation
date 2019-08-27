@@ -2,7 +2,7 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary><h5>Part Six</h5></summary>
+	<summary><h5>Part Sixxxx</h5></summary>
 	<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
 </details>
 	<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
@@ -42,6 +42,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
 	<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p>
 </details>
+
 <details>
 	<summary><h5>Part testsss</h5></summary>
 	
