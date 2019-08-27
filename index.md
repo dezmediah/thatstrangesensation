@@ -2,11 +2,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 
 <html>
 	<body>
-		<div>
 		<details>
-			<summary><h5>Parts 6 +</h5></summary>
-			<details>
-				<summary><h5>PART SIX</h5></summary>
+			<summary><h5>PART SIX</h5></summary>
 				<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
 				<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
 				<p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research </p>
@@ -44,8 +41,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>"Yep," George says. "And we were beamed through space and time onto this fucking island."</p><p>It's as if the group has suddenly pointed themselves in the same direction, aligned with one another spiritually, and L can feel the energy shift into something powerful—the potential energy of a group of twenty or more people committed to a singular goal.</p>
 				<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
 				<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p></details>
-			</div>
-	<details><summary><h5>Parts 1-5</h5></summary>
 			<details>
 				<summary><h5>PART FIVE</h5></summary>
 				<p>It feels right to be out on the water again. Back in her old life, L spent nearly every morning on a long-tail boat going out to a dive site. That half-hour ritual had always allowed her to collect her thoughts, the noise of the gas engine drowning out everything but the waves, the wind, and the sun. A morning boat ride meant she was on her way to do something worthwhile.</p>
@@ -95,8 +90,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>The three of them are frozen as the whale approaches. The next time it emerges, it breaches, straining up out of the water, higher than it seems it should be able to go before it slams its gigantic body back down, creating a huge splash, the edges of which reach their boat and provide a cool relief to L's burning forehead. Her breath is shallow. On the screen were numbers--what were they?</p> 
 				<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.</p>
 			</details>
-			<details>
-				<summary><h5>PART FOUR</h5></summary>
+		<details>
+			<summary><h5>PART FOUR</h5></summary>
 				<p>After her conversation with Ivy, L walks down to the beach and digs a shallow hole. She lies down in it and imagines she’s her old family dog. She sniffs at the salty air and tries to slow her heartbeat. As the sun begins to set, she falls asleep.</p>
 				<p>She wakes to a touch on her shoulder. It’s George, standing over her, bathed in the waning green light coming from the horizon. Next to him is a squat, bearded man with an inscrutable expression.</p>
 				<p>“Sorry!” George says. “We just thought you should probably get set up for the night! This is Brendan, our resident tent-builder.” The other man sticks out his hand and L shakes it. “Brendan doesn’t talk,” George says. “He used to be able to before he arrived, apparently.”</p> 
@@ -198,8 +193,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>She hoists herself up, declining his proffered hand. They begin walking toward the forest. She expects to hobble a bit, to stumble maybe, but instead she feels lithe.</p>
 				<p>xxxxxxxxxxxxxxxxxxxxx</p>
 			</details>
-			<details>
-				<summary><h5>PART ONE</h5></summary>
+		<details>
+			<summary><h5>PART ONE</h5></summary>
 				<p>Lately, every time L ascends, she feels on the verge of passing out. About two meters from the surface, she finds herself needing to grasp onto the inflater nozzle of her BCD in order to remind her body of the task at hand. The water squeezes her, the churning, womb-like sounds surrounding her and disorienting her. The sun, filtered by the water into individual rays, hits like a spotlight, causing her to shield her eyes even as she felt herself hungrily drawing toward it.</p>	
 				<p>And now, once again, she finds herself on the surface, back in her right mind, back on solid ground, which is in fact the choppy surface of the water. The sun steady, the physics standard. Escaped. Just a weird sensation was all.</p>
 				<p> Ever since she was a beginner diver, she’d felt a whiff of this sensation, but in the past few weeks it’s become stronger every dive. Glancing around to check that the interns she's been diving with are well, she actually wonders—if she were to let herself go on autopilot during ascension, allow her mind wander even just a bit, would she make it? Or would she pass out, sink to the bottom, die immediately? </p>
@@ -250,8 +245,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p>And then she is elsewhere. Her face is naked—no regulator. She feels sand in her nose and on her lips. She sputters, rubs her nose with her index and thumb, sticks out her tongue. Opens her eyes. She’s on the beach. Or a beach, rather. She doesn’t recognize the topography of this beach, with its thick forest, its meters of white sand. All the beaches on her island are short, with sparse, low vegetation and pieces of trash strewn about. This beach is pristine. A breeze tumbles down the white sand, unobstructed by a single other person. She is alone.</p> 
 				<p> xxxxxxxxxxxxxxxxx </p>
 			</details>
-		</details>
-	</div>
 </body>
 </html>
 
