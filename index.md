@@ -2,7 +2,7 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary><h5>alright now</h5></summary>
+	<summary><h5>lets try this</h5></summary>
 	<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
 	<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
 	<p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research.</p>
@@ -13,46 +13,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	
 </details>
 
-<details>
-	<summary><h5>Part Six test</h5></summary>
-	<p></p>
-        <p></p>
-        <p></p>
-        <p> </p>
-        <p></p>
-        <p> </p>
-        <p> </p>
-        <p>A murmur runs through the crowd now.</p>
-        <p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers was a high school science teacher. </p>
-        <p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers is a high school science teacher. </p>
-        <p>"We haven't been lazy!" someone yells.</p>
-        <p>"Ok," the farmer continues. "But we've been focusing on settling in, making ourselves comfortable. Surviving. Now we've been given a clear message. We have less than eight days to do what we've come here to do." </p>
-        <p>Some people groan and roll their eyes. Ivy and L share a glance. <em>Could be right</em>, Ivy seems to be communicating. </p>
-        <p>"Look, this whale could mean <em>anything</em>," says George. "We need to consider all possibilities. But I seriously doubt it's a message from some higher power."</p>
-        <p>"Not a higher power. It's a message from the Director," someone says. </p>
-        <p>"The Director?" L asks.</p>
-        <p>George sighs. "The Director is what some people have been calling the guy who—"</p>
-        <p>"Or the woman," says Ivy</p>
-        <p>"Or the woman," George says, nodding, "who, if Tess’s theory is correct, would’ve brought us here."</p>
-        <p>"Could be a group of people too," says Tess.</p>
-        <p>"Yes, but the point is we don't <em>know</em> anything about them," George says. "We shouldn't just be wildly guessing here, there's no point."</p>
-        <p>"But you're missing an important truth. That type of scientific skepticism makes sense back in the normal world, but it doesn't work here," says Pai, an older Thai woman, an artist. "Everything in this world has a reason. It is <em>curated</em> for us. From the supplies we were just miraculously given, to the perfectly temperate microclimate of this island, to this amazing weather we’ve been having."</p>
-        <p>"So, let's say you’re right," says L now. "We’re meant to fix the apocalyptic zone out there, clean up the water. What does that change? What can we actually do? What steps do we take first?”</p>
-        <p>The group falls silent.</p>
-        <p>Suddenly, Brendan, the silent hut builder, steps forward and waves his arms. Once he has the others' attention, he begins gesturing, pointing almost frantically, toward the water.</p>
-        <p>"What? Are you talking about the whale?" </p>
-        <p>He shakes his head, and then kneels down and begins writing something in the sand. "We need to retrieve the cr–" but as he writes a wave comes farther up the beach and begins to erase his work.<p>
-        <p>"I didn't see," some people shout.</p>
-        <p>He begins miming a box shape.</p>
-        <p>"He's saying we need to retrieve the crates. He's saying that's what we should focus on," says George. Brendan nods. "I agree," George says. "Look, it’s hard for me to believe in this Director character—I’m more of the camp that this is some sort of biological accident, that we all stepped through some wormhole or other—"</p>
-        <p>“It makes no sense!” says Pai.</p>
-        <p>“Ok,” says George. “But my point is that if you guys are right that we're being prompted toward certain activities, then yeah, it seems clear to me at least that we need to somehow retrieve those fuckin' things."</p>
-        <p>There's a moment of silence and George looks around at the group, sighing, a little out of breath from nerves, his eyebrows knit. L feels herself sweating. The afternoon sun is pointed directly at them now.</p>
-        <p>"Impossible," someone says. "They're radioactive."</p>
-        <p>"Yep," George says. "And we were beamed through space and time onto this fucking island."</p><p>It's as if the group has suddenly pointed themselves in the same direction, aligned with one another spiritually, and L can feel the energy shift into something powerful—the potential energy of a group of twenty or more people committed to a singular goal.</p>
-        <p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
-        <p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p>
-</details>
 
 <details>
 	<summary><h5>PART FIVE</h5></summary>
