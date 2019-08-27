@@ -1,96 +1,97 @@
+
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
-<html>
-	<body>
-		<details>
-			<summary><h5>PART SIX</h5></summary>
-				<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
-				<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
-				<p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research </p>
-				<p>George shrugs. "We were observing the crates when it showed up with that timer on its back." </p>
-				<p>"Timer? Is that what it is?" a middle-aged Australian woman says. "We can't read it from here."</p>
-				<p>"That’s what it looks like,” Ivy says. “When it showed up, it read 7:23:55.” She turns her notebook around, shows the group a drawing she did of the whale. "Next time we saw it, about twenty minutes later, it said 7:04:51." She shows them another drawing. "I think it's counting down." </p>
-				<p>"Fuck," says Tess. "So we have about eight days left to fix this place." The entire group jerks their heads toward her. She sighs. "Look, I've been here since the beginning. I know some of you have other theories, but I think we’re meant to clean up those dirty waters. I think it’s some kind of test, that’s what I think." She looks down as she talks, almost shy, but with a strong, unwavering voice. "We're all from 2019, right? 2019, a year in which the world is at risk of skidding into a runaway greenhouse effect. We're dipping our toes into the waters of the apocalypse. Well, this island is very nice and all, but out there—" she points—"out where the water goes dark, it's also apocalyptic." She pauses now, looks around, and finds the group rapt. "It's radioactive, dirty as fuck, and even hotter than it is here. I think we've been brought here because we're meant to learn how to save our planet. This is like a practice round. Like one of those hackathon competitions or something. Maybe, if we learn how to save this island, we'll understand how to save our planet too." </p>
-				<p>A murmur runs through the crowd now.</p>
-				<p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers was a high school science teacher. </p>
-				<p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers is a high school science teacher. </p>
-				<p>"We haven't been lazy!" someone yells.</p>
-				<p>"Ok," the farmer continues. "But we've been focusing on settling in, making ourselves comfortable. Surviving. Now we've been given a clear message. We have less than eight days to do what we've come here to do." </p>
-				<p>Some people groan and roll their eyes. Ivy and L share a glance. <em>Could be right</em>, Ivy seems to be communicating. </p>
-				<p>"Look, this whale could mean <em>anything</em>," says George. "We need to consider all possibilities. But I seriously doubt it's a message from some higher power."</p>
-				<p>"Not a higher power. It's a message from the Director," someone says. </p>
-				<p>"The Director?" L asks.</p>
-				<p>George sighs. "The Director is what some people have been calling the guy who—"</p>
-				<p>"Or the woman," says Ivy</p>
-				<p>"Or the woman," George says, nodding, "who, if Tess’s theory is correct, would’ve brought us here."</p>
-				<p>"Could be a group of people too," says Tess.</p>
-				<p>"Yes, but the point is we don't <em>know</em> anything about them," George says. "We shouldn't just be wildly guessing here, there's no point."</p>
-				<p>"But you're missing an important truth. That type of scientific skepticism makes sense back in the normal world, but it doesn't work here," says Pai, an older Thai woman, an artist. "Everything in this world has a reason. It is <em>curated</em> for us. From the supplies we were just miraculously given, to the perfectly temperate microclimate of this island, to this amazing weather we’ve been having."</p>
-				<p>"So, let's say you’re right," says L now. "We’re meant to fix the apocalyptic zone out there, clean up the water. What does that change? What can we actually do? What steps do we take first?”</p>
-				<p>The group falls silent.</p>
-				<p>Suddenly, Brendan, the silent hut builder, steps forward and waves his arms. Once he has the others' attention, he begins gesturing, pointing almost frantically, toward the water.</p>
-				<p>"What? Are you talking about the whale?" </p>
-				<p>He shakes his head, and then kneels down and begins writing something in the sand. "We need to retrieve the cr–" but as he writes a wave comes farther up the beach and begins to erase his work.<p>
-				<p>"I didn't see," some people shout.</p>
-				<p>He begins miming a box shape.</p>
-				<p>"He's saying we need to retrieve the crates. He's saying that's what we should focus on," says George. Brendan nods. "I agree," George says. "Look, it’s hard for me to believe in this Director character—I’m more of the camp that this is some sort of biological accident, that we all stepped through some wormhole or other—"</p>
-				<p>“It makes no sense!” says Pai.</p>
-				<p>“Ok,” says George. “But my point is that if you guys are right that we're being prompted toward certain activities, then yeah, it seems clear to me at least that we need to somehow retrieve those fuckin' things."</p>
-				<p>There's a moment of silence and George looks around at the group, sighing, a little out of breath from nerves, his eyebrows knit. L feels herself sweating. The afternoon sun is pointed directly at them now.</p>
-				<p>"Impossible," someone says. "They're radioactive."</p>
-				<p>"Yep," George says. "And we were beamed through space and time onto this fucking island."</p><p>It's as if the group has suddenly pointed themselves in the same direction, aligned with one another spiritually, and L can feel the energy shift into something powerful—the potential energy of a group of twenty or more people committed to a singular goal.</p>
-				<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
-				<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p></details>
-			<details>
-				<summary><h5>PART FIVE</h5></summary>
-				<p>It feels right to be out on the water again. Back in her old life, L spent nearly every morning on a long-tail boat going out to a dive site. That half-hour ritual had always allowed her to collect her thoughts, the noise of the gas engine drowning out everything but the waves, the wind, and the sun. A morning boat ride meant she was on her way to do something worthwhile.</p>
-				<p>But there is no sound of an engine here. Only the creak of a metal boat, and oars slapping the water. And instead of soaring along, Ivy and George are slowly rowing them toward the astonishing border, which shines fluorescent green against the bright blue sky.</p>
-				<p>Their progress is strained, because as they approach the threshold, the current resists them. George's hairy back begins sweating profusely, but Ivy has covered up well, in a hat and baggy white shirt.</p> 
-				<p>When L shields her eyes, she can see a tiny wave, maybe 15 centimeters high, zig-zagging along the border. She tries to think of scientific reasons for this--underground columns perhaps, but nothing, nothing about it seems natural.</p> 
-				<p>They stop rowing. By now, she can see what those shapes are that she'd noticed from the shore. Islands of plastic crates, painted a neon gold that glints in the sun. Behemoths, guarding whatever lies beyond.</p>
-				<p>"What's in all these crates?"</p>
-				<p>"We haven't been able to figure that out," says George. He digs in his bag and removes a handheld device with a screen on it. He swipes his thumb across it to turn it on and, after a moment, a reading of ".3" shows up. "It's not safe to go check them out."</p> 
-				<p>"What's that?" L asks.</p>
-				<p>"A geiger counter," says Ivy. "You have to take one when you come out here."</p>
-				<p>"Is .3 safe?" L asks.</p> 
-				<p>".3 sieverts isn't great, but for a short period of time, we're fine," says George.</p> 
-				<p>"What about closer to the border? Does it change?"</p> 
-				<p>"Oh yeah," says Ivy. "It gets much worse. Actually, George had wanted to take another reading of the levels closer to the border. But we don't have to if you're not comfortable."</p> 
-				<p>"Well, if you guys are sure it's safe enough. I mean do you know for sure how dangerous it is? I don't mean to be rude, but..." How reckless are we being here?</p>
-				<p>"Well, yeah, I do," says George. "I'm a nuclear engineer."</p>
-				<p>"Oh, well that's pretty fuckin' handy," says L.</p> 
-				<p>"Yeah, pretty much everyone who arrives here has some kind of highly relevant skill," says George. His tone is nonchalant, but his expression communicates otherwise. It says, yeah, isn't that fuckin' creepy?</p> 
-				<p>"So," says L.</p> 
-				<p>"So, the last time we rowed up to the border, it was at 5 sieverts per hour. That's pretty damn high. If we stayed at that level for an entire hour, at least one of us would die within a couple weeks."</p>
-				<p>"Woah," says L.</p>
-				<p>"But, when we take a reading, we just row up to it quickly, stay there for maybe 5 seconds before rowing back--the levels fall really quickly down to a safe level. So we end up getting a dose of like .007. That's like...4 CT scans?"</p>
-				<p>"Ya know what? I think I'll go for a swim," says L. "Let you guys do your thing."</p> 
-				<p>"Totally cool," says George.</p> 
-				<p>L hops out of the boat and swims a bit toward the shore. George and Ivy give each other a look and then row three times, moving several meters forward before bobbing back a half-meter. L sees Ivy record the reading in a small notebook and then they quickly row back toward her.</p>
-				<p>"What'd it say?"</p>
-				<p>"4.9," says Ivy. "About the same as last time."</p> 
-				<p>L pulls herself back into the boat. "So now what?"</p>
-				<p>"Typically," George says, "We row to a safe area and then we just chill. It seems pretty obvious that we need to go check out those crates, but there's no way to get out there. So we've somehow got to bring them--"</p>
-				<p>"To us," says L.</p> 
-				<p>"Exactly," says George.</p> 
-				<p>"Won't they be radioactive?"</p>
-				<p>"We'll see. The radiation could fall back down past the border zone, we don't actually know. That black water could be totally safe."</p>
-				<p>"It doesn't look like the safest water," L says. As a SCUBA diver, the opaqueness of the water beyond the threshold horrifies her at a deep level.</p> 
-				<p>"No," says George. "But, even if the crates are radioactive, there's ways to clean things to make them safer to handle."</p> 
-				<p>"Gotcha. So now, we just think?"</p>
-				<p>George turns up his hands. "Nothing better to do really."</p>
-				<p>They row back to an even lower radiation level and Ivy gets out her drawing supplies. The sun is really out now. L wishes she'd brought more cover. In her haste, she didn't even bring a hat and is just wearing her bathing suit top and shorts. "You try a magnet?" she asks.</p> 
-				<p>"We'd need a pretty fucking powerful magnet," says George.</p> 
-				<p>She has no other ideas. "Well, what have you tried?"</p>
-				<p>"Uh, nothing?" says George. "We've mainly been setting things up, trying to survive. Ivy and I only recently started trying to come out here regularly.</p> 
-				<p>They sit in silence. After awhile, Ivy has drawn a striking image of the border, capturing with her colored pencils the near exact shade, and fluorescent nature of its glowing green. Finally she puts the sketchbook down. "I guess we should head back soon," she says.</p>
-				<p>"Wait," says George. "Just give me a few more minutes." L notices that his brow has furrowed and his whole body has become still. He stares at a single spot in the direction of one of the crates.</p> 
-				<p>L follows his gaze. After a minute, she sees something. Or did she? A ripple in the calm black water. So small she doesn't say anything. But then, a minute later, the three of them gasp. Back beyond one of the gold crates, something emerges out of the water and then dips back down under it. A whale, or a shark, the hint of its shiny grey back standing out in stark contrast against the onyx of the water. But there was something strange about it, something on its back.</p> 
-				<p>When it appears again, it's much closer. L sees now that it has a band around its torso, a wide, black rubber band, and attached to the band is something, something with a screen and flashing red figures. "It's a bryde whale," says L, noting the tall, falcate dorsal fin, and now, as it resurfaces again, the three characteristic head ridges. Again, a whale endemic to the Gulf of Thailand, one she would have no trouble identifying, even though she's seen them only a handful of times.</p> 
-				<p>The three of them are frozen as the whale approaches. The next time it emerges, it breaches, straining up out of the water, higher than it seems it should be able to go before it slams its gigantic body back down, creating a huge splash, the edges of which reach their boat and provide a cool relief to L's burning forehead. Her breath is shallow. On the screen were numbers--what were they?</p> 
-				<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.</p>
-			</details>
-		<details>
+<details>
+	<summary><h5>PART SIX</h5></summary>
+		<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
+		<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
+		<p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research </p>
+		<p>George shrugs. "We were observing the crates when it showed up with that timer on its back." </p>
+		<p>"Timer? Is that what it is?" a middle-aged Australian woman says. "We can't read it from here."</p>
+		<p>"That’s what it looks like,” Ivy says. “When it showed up, it read 7:23:55.” She turns her notebook around, shows the group a drawing she did of the whale. "Next time we saw it, about twenty minutes later, it said 7:04:51." She shows them another drawing. "I think it's counting down." </p>
+		<p>"Fuck," says Tess. "So we have about eight days left to fix this place." The entire group jerks their heads toward her. She sighs. "Look, I've been here since the beginning. I know some of you have other theories, but I think we’re meant to clean up those dirty waters. I think it’s some kind of test, that’s what I think." She looks down as she talks, almost shy, but with a strong, unwavering voice. "We're all from 2019, right? 2019, a year in which the world is at risk of skidding into a runaway greenhouse effect. We're dipping our toes into the waters of the apocalypse. Well, this island is very nice and all, but out there—" she points—"out where the water goes dark, it's also apocalyptic." She pauses now, looks around, and finds the group rapt. "It's radioactive, dirty as fuck, and even hotter than it is here. I think we've been brought here because we're meant to learn how to save our planet. This is like a practice round. Like one of those hackathon competitions or something. Maybe, if we learn how to save this island, we'll understand how to save our planet too." </p>
+		<p>A murmur runs through the crowd now.</p>
+		<p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers was a high school science teacher. </p>
+		<p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers is a high school science teacher. </p>
+		<p>"We haven't been lazy!" someone yells.</p>
+		<p>"Ok," the farmer continues. "But we've been focusing on settling in, making ourselves comfortable. Surviving. Now we've been given a clear message. We have less than eight days to do what we've come here to do." </p>
+		<p>Some people groan and roll their eyes. Ivy and L share a glance. <em>Could be right</em>, Ivy seems to be communicating. </p>
+		<p>"Look, this whale could mean <em>anything</em>," says George. "We need to consider all possibilities. But I seriously doubt it's a message from some higher power."</p>
+		<p>"Not a higher power. It's a message from the Director," someone says. </p>
+		<p>"The Director?" L asks.</p>
+		<p>George sighs. "The Director is what some people have been calling the guy who—"</p>
+		<p>"Or the woman," says Ivy</p>
+		<p>"Or the woman," George says, nodding, "who, if Tess’s theory is correct, would’ve brought us here."</p>
+		<p>"Could be a group of people too," says Tess.</p>
+		<p>"Yes, but the point is we don't <em>know</em> anything about them," George says. "We shouldn't just be wildly guessing here, there's no point."</p>
+		<p>"But you're missing an important truth. That type of scientific skepticism makes sense back in the normal world, but it doesn't work here," says Pai, an older Thai woman, an artist. "Everything in this world has a reason. It is <em>curated</em> for us. From the supplies we were just miraculously given, to the perfectly temperate microclimate of this island, to this amazing weather we’ve been having."</p>
+		<p>"So, let's say you’re right," says L now. "We’re meant to fix the apocalyptic zone out there, clean up the water. What does that change? What can we actually do? What steps do we take first?”</p>
+		<p>The group falls silent.</p>
+		<p>Suddenly, Brendan, the silent hut builder, steps forward and waves his arms. Once he has the others' attention, he begins gesturing, pointing almost frantically, toward the water.</p>
+		<p>"What? Are you talking about the whale?" </p>
+		<p>He shakes his head, and then kneels down and begins writing something in the sand. "We need to retrieve the cr–" but as he writes a wave comes farther up the beach and begins to erase his work.<p>
+		<p>"I didn't see," some people shout.</p>
+		<p>He begins miming a box shape.</p>
+		<p>"He's saying we need to retrieve the crates. He's saying that's what we should focus on," says George. Brendan nods. "I agree," George says. "Look, it’s hard for me to believe in this Director character—I’m more of the camp that this is some sort of biological accident, that we all stepped through some wormhole or other—"</p>
+		<p>“It makes no sense!” says Pai.</p>
+		<p>“Ok,” says George. “But my point is that if you guys are right that we're being prompted toward certain activities, then yeah, it seems clear to me at least that we need to somehow retrieve those fuckin' things."</p>
+		<p>There's a moment of silence and George looks around at the group, sighing, a little out of breath from nerves, his eyebrows knit. L feels herself sweating. The afternoon sun is pointed directly at them now.</p>
+		<p>"Impossible," someone says. "They're radioactive."</p>
+		<p>"Yep," George says. "And we were beamed through space and time onto this fucking island."</p><p>It's as if the group has suddenly pointed themselves in the same direction, aligned with one another spiritually, and L can feel the energy shift into something powerful—the potential energy of a group of twenty or more people committed to a singular goal.</p>
+		<p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
+		<p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p>
+</details>
+
+<details>
+	<summary><h5>PART FIVE</h5></summary>
+		<p>It feels right to be out on the water again. Back in her old life, L spent nearly every morning on a long-tail boat going out to a dive site. That half-hour ritual had always allowed her to collect her thoughts, the noise of the gas engine drowning out everything but the waves, the wind, and the sun. A morning boat ride meant she was on her way to do something worthwhile.</p>
+		<p>But there is no sound of an engine here. Only the creak of a metal boat, and oars slapping the water. And instead of soaring along, Ivy and George are slowly rowing them toward the astonishing border, which shines fluorescent green against the bright blue sky.</p>
+		<p>Their progress is strained, because as they approach the threshold, the current resists them. George's hairy back begins sweating profusely, but Ivy has covered up well, in a hat and baggy white shirt.</p> 
+		<p>When L shields her eyes, she can see a tiny wave, maybe 15 centimeters high, zig-zagging along the border. She tries to think of scientific reasons for this--underground columns perhaps, but nothing, nothing about it seems natural.</p> 
+		<p>They stop rowing. By now, she can see what those shapes are that she'd noticed from the shore. Islands of plastic crates, painted a neon gold that glints in the sun. Behemoths, guarding whatever lies beyond.</p>
+		<p>"What's in all these crates?"</p>
+		<p>"We haven't been able to figure that out," says George. He digs in his bag and removes a handheld device with a screen on it. He swipes his thumb across it to turn it on and, after a moment, a reading of ".3" shows up. "It's not safe to go check them out."</p> 
+		<p>"What's that?" L asks.</p>
+			<p>"A geiger counter," says Ivy. "You have to take one when you come out here."</p>
+			<p>"Is .3 safe?" L asks.</p> 
+			<p>".3 sieverts isn't great, but for a short period of time, we're fine," says George.</p> 
+			<p>"What about closer to the border? Does it change?"</p> 
+			<p>"Oh yeah," says Ivy. "It gets much worse. Actually, George had wanted to take another reading of the levels closer to the border. But we don't have to if you're not comfortable."</p> 
+			<p>"Well, if you guys are sure it's safe enough. I mean do you know for sure how dangerous it is? I don't mean to be rude, but..." How reckless are we being here?</p>
+			<p>"Well, yeah, I do," says George. "I'm a nuclear engineer."</p>
+			<p>"Oh, well that's pretty fuckin' handy," says L.</p> 
+			<p>"Yeah, pretty much everyone who arrives here has some kind of highly relevant skill," says George. His tone is nonchalant, but his expression communicates otherwise. It says, yeah, isn't that fuckin' creepy?</p> 
+			<p>"So," says L.</p> 
+			<p>"So, the last time we rowed up to the border, it was at 5 sieverts per hour. That's pretty damn high. If we stayed at that level for an entire hour, at least one of us would die within a couple weeks."</p>
+			<p>"Woah," says L.</p>
+			<p>"But, when we take a reading, we just row up to it quickly, stay there for maybe 5 seconds before rowing back--the levels fall really quickly down to a safe level. So we end up getting a dose of like .007. That's like...4 CT scans?"</p>
+			<p>"Ya know what? I think I'll go for a swim," says L. "Let you guys do your thing."</p> 
+			<p>"Totally cool," says George.</p> 
+			<p>L hops out of the boat and swims a bit toward the shore. George and Ivy give each other a look and then row three times, moving several meters forward before bobbing back a half-meter. L sees Ivy record the reading in a small notebook and then they quickly row back toward her.</p>
+			<p>"What'd it say?"</p>
+			<p>"4.9," says Ivy. "About the same as last time."</p> 
+			<p>L pulls herself back into the boat. "So now what?"</p>
+			<p>"Typically," George says, "We row to a safe area and then we just chill. It seems pretty obvious that we need to go check out those crates, but there's no way to get out there. So we've somehow got to bring them--"</p>				<p>"To us," says L.</p> 
+			<p>"Exactly," says George.</p> 
+			<p>"Won't they be radioactive?"</p>
+			<p>"We'll see. The radiation could fall back down past the border zone, we don't actually know. That black water could be totally safe."</p>
+			<p>"It doesn't look like the safest water," L says. As a SCUBA diver, the opaqueness of the water beyond the threshold horrifies her at a deep level.</p> 
+			<p>"No," says George. "But, even if the crates are radioactive, there's ways to clean things to make them safer to handle."</p> 
+			<p>"Gotcha. So now, we just think?"</p>
+			<p>George turns up his hands. "Nothing better to do really."</p>
+			<p>They row back to an even lower radiation level and Ivy gets out her drawing supplies. The sun is really out now. L wishes she'd brought more cover. In her haste, she didn't even bring a hat and is just wearing her bathing suit top and shorts. "You try a magnet?" she asks.</p> 
+			<p>"We'd need a pretty fucking powerful magnet," says George.</p> 
+			<p>She has no other ideas. "Well, what have you tried?"</p>
+			<p>"Uh, nothing?" says George. "We've mainly been setting things up, trying to survive. Ivy and I only recently started trying to come out here regularly.</p> 
+			<p>They sit in silence. After awhile, Ivy has drawn a striking image of the border, capturing with her colored pencils the near exact shade, and fluorescent nature of its glowing green. Finally she puts the sketchbook down. "I guess we should head back soon," she says.</p>
+			<p>"Wait," says George. "Just give me a few more minutes." L notices that his brow has furrowed and his whole body has become still. He stares at a single spot in the direction of one of the crates.</p> 
+			<p>L follows his gaze. After a minute, she sees something. Or did she? A ripple in the calm black water. So small she doesn't say anything. But then, a minute later, the three of them gasp. Back beyond one of the gold crates, something emerges out of the water and then dips back down under it. A whale, or a shark, the hint of its shiny grey back standing out in stark contrast against the onyx of the water. But there was something strange about it, something on its back.</p> 
+			<p>When it appears again, it's much closer. L sees now that it has a band around its torso, a wide, black rubber band, and attached to the band is something, something with a screen and flashing red figures. "It's a bryde whale," says L, noting the tall, falcate dorsal fin, and now, as it resurfaces again, the three characteristic head ridges. Again, a whale endemic to the Gulf of Thailand, one she would have no trouble identifying, even though she's seen them only a handful of times.</p> 
+			<p>The three of them are frozen as the whale approaches. The next time it emerges, it breaches, straining up out of the water, higher than it seems it should be able to go before it slams its gigantic body back down, creating a huge splash, the edges of which reach their boat and provide a cool relief to L's burning forehead. Her breath is shallow. On the screen were numbers--what were they?</p> 
+			<p>Now the whale resurfaces and skims the surface only 10 meters away. They can see clearly its message now: a clock, counting down: 07:23:55.</p>
+</details>
+
+<details>
 			<summary><h5>PART FOUR</h5></summary>
 				<p>After her conversation with Ivy, L walks down to the beach and digs a shallow hole. She lies down in it and imagines she’s her old family dog. She sniffs at the salty air and tries to slow her heartbeat. As the sun begins to set, she falls asleep.</p>
 				<p>She wakes to a touch on her shoulder. It’s George, standing over her, bathed in the waning green light coming from the horizon. Next to him is a squat, bearded man with an inscrutable expression.</p>
