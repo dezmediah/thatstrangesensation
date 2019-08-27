@@ -2,7 +2,7 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary><h5>test</h5></summary>
+	<summary><h5>Part Six</h5></summary>
 	<p> this is a test </p>
 </details>
 
@@ -124,7 +124,10 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 		<p>“No one’s gotten rad poisoning yet,” says George with a shrug.</p> 
 		<p>“It’s not dangerous as long as we don’t go over the radioactive threshold,” Ivy explains. “Would you like to join?”</p> 
 </details>
-
+<details>
+	<summary><h5>Part Six</h5></summary>
+	<p> this is another test </p>
+</details>
 <details>
 	<summary><h5>PART THREE</h5></summary>
 		<p>Just inside the forest is what appears to be a small village. All around her, wedged in between tall coconut and palm trees, are simple bamboo huts on platforms. There must be thirty or so, each of a similar size and design: a window on the left and a bamboo door. Inside the open huts L sees an odd assortment of camping pads, sheets, quilts, and knitted blankets.</p> 
