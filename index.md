@@ -7,6 +7,9 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
 	<p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research.</p>
 	<p>George shrugs. "We were observing the crates when it showed up with that timer on its back."</p>
+	<p>"Timer? Is that what it is?" a middle-aged Australian woman says. "We can't read it from here."</p>
+	<p>"That’s what it looks like,” Ivy says. “When it showed up, it read 7:23:55.” She turns her notebook around, shows the group a drawing she did of the whale. "Next time we saw it, about twenty minutes later, it said 7:04:51." She shows them another drawing. "I think it's counting down."</p>
+	<p>"Fuck," says Tess. "So we have about eight days left to fix this place." The entire group jerks their heads toward her. She sighs. "Look, I've been here since the beginning. I know some of you have other theories, but I think we’re meant to clean up those dirty waters. I think it’s some kind of test, that’s what I think." She looks down as she talks, almost shy, but with a strong, unwavering voice. "We're all from 2019, right? 2019, a year in which the world is at risk of skidding into a runaway greenhouse effect. We're dipping our toes into the waters of the apocalypse. Well, this island is very nice and all, but out there—" she points—"out where the water goes dark, it's also apocalyptic." She pauses now, looks around, and finds the group rapt. "It's radioactive, dirty as fuck, and even hotter than it is here. I think we've been brought here because we're meant to learn how to save our planet. This is like a practice round. Like one of those hackathon competitions or something. Maybe, if we learn how to save this island, we'll understand how to save our planet too."<p>
 	
 </details>
 
@@ -16,9 +19,9 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
         <p></p>
         <p></p>
         <p> </p>
-        <p>"Timer? Is that what it is?" a middle-aged Australian woman says. "We can't read it from here."</p>
-        <p>"That’s what it looks like,” Ivy says. “When it showed up, it read 7:23:55.” She turns her notebook around, shows the group a drawing she did of the whale. "Next time we saw it, about twenty minutes later, it said 7:04:51." She shows them another drawing. "I think it's counting down." </p>
-        <p>"Fuck," says Tess. "So we have about eight days left to fix this place." The entire group jerks their heads toward her. She sighs. "Look, I've been here since the beginning. I know some of you have other theories, but I think we’re meant to clean up those dirty waters. I think it’s some kind of test, that’s what I think." She looks down as she talks, almost shy, but with a strong, unwavering voice. "We're all from 2019, right? 2019, a year in which the world is at risk of skidding into a runaway greenhouse effect. We're dipping our toes into the waters of the apocalypse. Well, this island is very nice and all, but out there—" she points—"out where the water goes dark, it's also apocalyptic." She pauses now, looks around, and finds the group rapt. "It's radioactive, dirty as fuck, and even hotter than it is here. I think we've been brought here because we're meant to learn how to save our planet. This is like a practice round. Like one of those hackathon competitions or something. Maybe, if we learn how to save this island, we'll understand how to save our planet too." </p>
+        <p></p>
+        <p> </p>
+        <p> </p>
         <p>A murmur runs through the crowd now.</p>
         <p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers was a high school science teacher. </p>
         <p>“So someone forced us to come here, just as a test?” scoffs a gray-haired tall American, who L remembers is a high school science teacher. </p>
