@@ -251,7 +251,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 				<p> xxxxxxxxxxxxxxxxx </p>
 			</details>
 		</details>
-</div>
+	</div>
 </body>
 </html>
 
