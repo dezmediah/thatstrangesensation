@@ -2,9 +2,11 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
-	<summary><h5>okay really really let's do it</h5></summary>
+	<summary><h5>alright now</h5></summary>
 	<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
 	<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
+	<p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research.</p>
+	<p>George shrugs. "We were observing the crates when it showed up with that timer on its back."</p>
 	
 </details>
 
@@ -12,8 +14,8 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<summary><h5>Part Six test</h5></summary>
 	<p></p>
         <p></p>
-        <p>Finally, Tess, a biologist, speaks. "Was that a fucking whale? I saw it breach near you." She is a nearly six-foot tall, wiry southeast-Asian woman with bright eyes, a shaved head, and a scratchy voice. Back in regular life, her job was trekking through jungles looking for some of the most poisonous snakes in the world, then harvesting their venom for research.</p>
-        <p>George shrugs. "We were observing the crates when it showed up with that timer on its back." </p>
+        <p></p>
+        <p> </p>
         <p>"Timer? Is that what it is?" a middle-aged Australian woman says. "We can't read it from here."</p>
         <p>"That’s what it looks like,” Ivy says. “When it showed up, it read 7:23:55.” She turns her notebook around, shows the group a drawing she did of the whale. "Next time we saw it, about twenty minutes later, it said 7:04:51." She shows them another drawing. "I think it's counting down." </p>
         <p>"Fuck," says Tess. "So we have about eight days left to fix this place." The entire group jerks their heads toward her. She sighs. "Look, I've been here since the beginning. I know some of you have other theories, but I think we’re meant to clean up those dirty waters. I think it’s some kind of test, that’s what I think." She looks down as she talks, almost shy, but with a strong, unwavering voice. "We're all from 2019, right? 2019, a year in which the world is at risk of skidding into a runaway greenhouse effect. We're dipping our toes into the waters of the apocalypse. Well, this island is very nice and all, but out there—" she points—"out where the water goes dark, it's also apocalyptic." She pauses now, looks around, and finds the group rapt. "It's radioactive, dirty as fuck, and even hotter than it is here. I think we've been brought here because we're meant to learn how to save our planet. This is like a practice round. Like one of those hackathon competitions or something. Maybe, if we learn how to save this island, we'll understand how to save our planet too." </p>
@@ -47,7 +49,6 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
         <p>"Yep," George says. "And we were beamed through space and time onto this fucking island."</p><p>It's as if the group has suddenly pointed themselves in the same direction, aligned with one another spiritually, and L can feel the energy shift into something powerful—the potential energy of a group of twenty or more people committed to a singular goal.</p>
         <p>And then the building momentum breaks. "Fuck that," says a young Chinese physicist. “I’m figuring out a way home.”  </p>
         <p>The argument on the beach lasts until nightfall, until the hermit crabs begin taking over and the group decides to head back to the main house to prepare dinner. By the end of the day, it's decided that from this point on, the group would focus more on trying to explore Apocalypta, as they began to call the water beyond the fluorescent green, zig-zag border. And, while a contingent of them would work on retrieving the crates, the other, more spiritually minded contingent, would work on searching for signs from the Director.</p>
-        <p>sldf;skdjfjjffffsdlfkjas;ldkfja;dlkfja;dlkfjas;ldkjfas; ldkjfaldkjfal;dkjfas;lkdjfa;lkdjfa;lkdjf;sldkjfas;ldkjfal;dkjfasldkjfa;sldkjfa</p>
 </details>
 
 <details>
