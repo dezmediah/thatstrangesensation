@@ -1,5 +1,5 @@
 <a href="index.html" class="logo">
-	<span class="symbol"><img src="images/logo.gif" alt="dezmediah website logo" /></span>
+	<span class="symbol"><img src="logo.gif" alt="dezmediah website logo" /></span>
 </a>
 
 <img src=tss-1.jpg alt="that strange sensation logo" style="width:300px;height:300px;> </img>
