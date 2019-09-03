@@ -1,3 +1,8 @@
+<a href="index.html" class="logo">
+	<span class="symbol"><img src="images/logo.gif" alt="" /></span><span class="title">Dezmediah</span>
+</a>
+
+<img src=tss-1.jpg alt="that strange sensation logo" style="width:300px;height:300px;> </img>
 
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
