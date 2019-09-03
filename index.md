@@ -2,6 +2,60 @@
 To sign up to receive the next installment in your inbox, go [here]( https://docs.google.com/forms/d/13r9zOV1WA9pKq0Mif7C7cdIhgjhjsVURkTKXmV9N06Y/edit)
 
 <details>
+	<summary><h8><em>Part Seven</em></h8></summary>
+	<p>The next morning is overcast, with a squall, dark and heavy, out near the horizon. Once again, L is alone on the part of the beach near the bamboo dock and metal boat. She digs her feet in the sand and looks through binoculars at the crates and the fluorescent zig-zag border, which appears even more unnatural in this gray, almost violet, pre-storm light. The wind is picking up. She feels she’s just on the verge of understanding something, as if a puzzle piece is about to snap into place, when she hears a <em>pop</em> loud enough to strain her eardrum. Not five feet in front of her, right at the water line, lies a tall, skinny man, wearing one water-logged boot and a scruffy pair of khaki trail shorts.</p>
+	<p>He’s breathing rapidly. He lifts his head and looks around, catches sight of her. She tenses, then quickly crawls over. Soon she finds herself parroting George, projecting a friendliness and calm she doesn’t necessarily feel.</p>
+	<p>“You’re okay,” she says. “You’re…<em>safe</em>.” She forces a smile.</p>
+	<p>There’s fear in his eyes. “What? What is this?” His accent is British.</p>
+	<p>“You’re in shock,” she says. “I arrived here this way too, washed up on this beach like some piece of driftwood.” She smiles. “It’s normal. <em>For this place</em>, I mean, it’s normal. Take a minute to get your bearings and when you’re ready, we’ll walk into the forest, just a dozen meters or so, and meet the others.”</p>
+	<p>He tries to speak but it’s clear his throat is dry. He swallows, then croaks out, “What others?”</p>
+	<p>“Scientists, mostly,” she says. “This is a sort of research station. You’ll find out more once we head to the main house and get you a glass of water and something to boost your blood sugar. My advice is to take a minute and breathe, just try to relax. You’re going to be fine. You are fine.”</p>
+	<p><em>I think</em>, she adds, mentally.</p>
+	<p>He looks up at her a bit warily, then lies back again and sighs, closing his eyes. After a few minutes of deep breathing, he props himself up and then takes her proffered hand to get himself standing. Moving gingerly, he follows her into the forest.</p>  
+	<p>At the main house, L learns the man’s name is Paul. She finds him a glass of water and a thick slice of banana bread. Standing in the kitchen, L feels that Paul's appearance is reminiscent of some kind of plant, or mushroom, tall and spindly, with a shaggy chestnut crown.</p>
+	<p>She hears someone out on the back porch and she peeks out to find George, tinkering with an Arduino.</p>
+	<p>“What’re you up to, George?” L asks.</p>
+	<p>“Oh, just trying to program this so it can sense what elements are in the water. I want to figure out what exactly is murking things up out there." </p>
+	<p>“Nice,” says L.</p>
+	<p>Paul steps out, and George looks up, surprised.</p>
+	<p>“Paul, this is George,” L says. “George, this is Paul, a brand new…” she pauses. <em>What should I say? Resident? Member?... Captive?</em> She settles on “friend,” though once she says it aloud she realizes it sounds a little culty. “He showed up on the beach less than five minutes ago.”</p>
+	<p>“A new friend!” George exclaims. “Wonderful!” He grabs Paul’s hand and shakes it heartily. “Here, come sit!”</p>
+	<p>They sit on the floor of the deck, and together George and L brief Paul on the basics. They explain that about once a week—though the rate has varied—someone new arrives on the island, and most of them have been scientists and engineers, but there are artists too, like Ivy. They tell him they don’t know why they’re here, but that all their basic needs seem to be taken care of. As if through an unspoken agreement, they don’t tell him about the whale, which had been on the other side of the island this morning.</p>
+	<p>“I know it’s a lot,” says George finally. “But the good news is everyone’s been safe so far. No crazy animals or diseases or anything. It’s almost like some kind of utopia… almost…except, of course, no one asked to be here.”</p>
+	<p>“You’re sure this isn’t some kind of trick you all are playing?” Paul asks. “You haven’t kidnapped me or something?” L pegs his accent as some kind of posh British—London, maybe, and thinks that although he sounds a little sarcastic, it’s a genuine question.</p>
+	<p>George laughs. “Yeah, I’m pretty sure we haven’t kidnapped you. Were you in Thailand before you transported?”</p>
+	<p>“This is Thailand?”</p>
+	<p>“Well, that’s what we think. Based on the fauna and flora,” says George.</p>
+	<p>L says, “I was—<em>am</em>—a marine biologist in the Gulf of Thailand. This place is highly consistent with what I’ve been studying for the last decade.”</p>
+	<p>Paul looks L in the eye, studying her now, seeming perhaps a bit reassured. “Well given that, it’d be a pretty crazy kidnapping,” he says quietly, finding his breath. “You would’ve had to drag me across the world under some heavy sedation for more than twenty hours. But of course that seems just as likely as whatever sci-fi psychodrama you're proposing to me now.”</p>
+	<p>“Oh?” says George. “Where were you before?”</p>
+	<p>Paul pauses, then says, “Scotland. A nuclear power plant.”</p>
+	<p>“A power plant, really?” says George. “What were you doing there? You an engineer? A physicist? An environmental analyst?”</p>
+	<p>“My—I’m a mycologist. Look—” he says, then stops, rubbing his temples. “I think I need to be alone for a minute. I’m feeling all…” he covers his eyes with his palms and massages them. “All sort of tired and fucked up.” He slaps his hands on his knees then grabs the slice of banana bread from the aluminum plate it's been sitting on. “Can I take this and go sit somewhere for a minute?” </p>
+	<p>“Sure,” L and George say, trying to sound accommodating, and George points him toward the tree L sat under when she first arrived. Paul stands up quickly and nearly stumbles off. They watch him plop down under the tree then curl up in a ball, before becoming very still.</p>
+	<p>“You think he’s okay?” George asks.</p>
+	<p>“Should be fine. Don’t you remember your arrival?” L asks.</p>
+	<p>George sighs and crosses his arms. “Seems like a lifetime ago.”</p>
+	<p>				*</p>
+	<p>Paul sleeps under the tree for hours. Thankfully, the storm never reaches land, just depositing sheets of water out past the zig-zag line. While helping to prepare lunch, L notices that the noise of cooking has caused Paul to sit up, but still he doesn’t budge from his spot. After most of the others have eaten, she brings him a plate. “You should eat,” she says.</p>
+	<p>He stares at the rice, beans, and squash for a moment, then, hungrily, takes the plate and begins shoveling food into his mouth.</p>
+	<p>“You know I feel some responsibility for you,” L says, “because I discovered you.”</p>
+	<p>He darts his eyes over at her. “What do you mean discovered me? Like you recruited me?”</p>
+	<p>“Recruited? No, no, I’m sorry. I just mean I’m the first one to see you—out there on the beach. It’s the first time I’ve been the one to, you know, <em>discover</em> someone.” She feels herself redden. </p>
+	<p>“Sorry,” Paul says, sighing. “Don’t mean to be so suspicious. I have no reason not to trust you, I guess. Everything you all have said has made as much sense as any other theory I’ve come up with. It’s all just a little creepy, you know. Very confusing, you know?”</p>
+	<p>“Yeah,” L says. “I think I know.”</p>
+	<p>“It’s especially confusing,” he continues, swallowing a large spoonful of food and taking a deep breath, “because of what was happening the second I was transported.”</p>
+	<p>L suddenly feels a twinge of that "puzzle pieces fitting together sensation" from this morning.</p>
+	<p>“Well,” Paul says, “It was a big moment. I’d just done something that I think was going to—hell, is going to, I guess—change my entire career.”</p>
+	<p>L’s eyes lock with his. “What, Paul? What had you just done?”</p>
+	<p>“I’m pretty sure—in fact I’m damned near positive—that I had just gotten inconclusive proof that I'd discovered an entirely new species of fungi. One that could have a huge impact on environmental health in some spots, what with Fukushima, Chernobyl, all the other places that are likely to become irradiated as climate change strengthens, causing vulnerable power plants to become damaged, conflict to increase, etc. etc." </p>
+	<p>“Paul, why is your new species of mushroom going to have an impact in irradiated places?” She finds her breath becoming shallower and more rapid.</p>
+	<p>“The paultsake, I was going to call it.” He looks at her. “We found it in the waters around the power plant. Little tiny mycelium that were growing mushrooms about this size—" he raises his hand and shows her a space the size of a dime—“in the soil near the waters. They consume and disperse radiation. Powerful amounts. Such that the Sievert reading in the waters around the reactor was minimal. They use <em>melatonin</em> to do it, the same damn stuff we have in our skin that protects us from UV rays. Wild.” He shakes his head. “I’d just gotten the results back from a test I'd been doing on the mushrooms when—“ he claps his hands together.</p>
+	<p>L opens her mouth, then stops. <em>A psilocybin mushroom</em>, she thinks. That’s what he looks like. <em>A psilocybin mushroom man, come all this way to blow our fucking minds</em>. She breaks into peals of laughter. </p>
+	<p>xxxxx</p>
+</details>
+
+<details>
 	<summary><h8><em>Part Six</em></h8></summary>
 	<p>The bryde whale with the timer on its back is not leaving the harbor. It swims a wide ellipse all afternoon, its gray back glinting in the sun. Ivy, George, and L stay out in the boat for more than an hour, listening to the sloshing of the water against the boat and waiting for the whale to breach again, which it does every twenty minutes or so, slowly drawing itself up out of the water, high enough that when it comes back down it sends a swell their way that makes the boat rock. It's as if the whale is showing off the timer, which L comes to realize looks like a giant 1980s-era Timex watch.</p>
 	<p>By the time they return to the beach, a crowd of about twenty people has gathered. As George, Ivy, and L walk onto shore, the crowd remains silent, tight with anticipation.</p>
