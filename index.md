@@ -46,7 +46,7 @@ To sign up to receive the next installment in your inbox, go [here]( https://doc
 	<p>“Yeah,” L says. “I think I know.”</p>
 	<p>“It’s especially confusing,” he continues, swallowing a large spoonful of food and taking a deep breath, “because of what was happening the second I was transported.”</p>
 	<p>L suddenly feels a twinge of that "puzzle pieces fitting together sensation" from this morning.</p>
-	<p>“Well,” Paul says, “It was a big moment. I’d just done something that I think was going to—hell, is going to, I guess—change my entire career.”</p>
+	<p>“Well,” Paul says, “It was a big moment. I’d just done something that I think was going to—hell, <em>is going to</em<, I guess—change my entire career.”</p>
 	<p>L’s eyes lock with his. “What, Paul? What had you just done?”</p>
 	<p>“I’m pretty sure—in fact I’m damned near positive—that I had just gotten inconclusive proof that I'd discovered an entirely new species of fungi. One that could have a huge impact on environmental health in some spots, what with Fukushima, Chernobyl, all the other places that are likely to become irradiated as climate change strengthens, causing vulnerable power plants to become damaged, conflict to increase, etc. etc." </p>
 	<p>“Paul, why is your new species of mushroom going to have an impact in irradiated places?” She finds her breath becoming shallower and more rapid.</p>
